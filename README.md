@@ -16,7 +16,9 @@ The `single-vis` is meant to take any CSV and visualize it given the parameters 
 For the purpose of batch visualization, tehre is a Python script which runs [Selenium](https://www.selenium.dev/) to create an SVG export of the visualization.
 
 ```
-python .\selenium.py
+python .\run-selenium.py
 ```
+
+The webserver needs to be running.
 
 The dependencies are [selenium](https://pypi.org/project/selenium/) and [webdriver_manager](https://pypi.org/project/webdriver-manager/).
