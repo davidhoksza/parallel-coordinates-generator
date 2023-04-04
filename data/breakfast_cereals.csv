@@ -1,0 +1,404 @@
+name,group,protein (g),calcium (g),sodium (g),fiber (g),vitaminc (g),potassium (g),carbohydrate (g),sugars (g),fat (g),water (g),calories,saturated (g),monounsat (g),polyunsat (g)
+AMARANTH FLAKES,Breakfast Cereals,15.54,0.017,0.035,9.5,0.0025,0.353,71.15,0.42,7.0,3.0,353,1.325,2.148,2.752
+"Cereal ready-to-eat, CRISPY BROWN RICE",Breakfast Cereals,7.1,0.028,0.012,7.3,0.0,0.238,86.0,9.1,3.5,3.0,388,0.688,1.011,1.473
+"Cereal wafer straws, KELLOGG, APPLE JACKS Cereal straws",Breakfast Cereals,5.7,0.03,0.05,0.0,0.0,0.006,78.4,40.0,11.4,2.0,439,5.8,3.2,2.4
+"Cereal wafer straws, KELLOGG, COCOA KRISPIES Cereal straws",Breakfast Cereals,5.9,0.009,0.05,1.5,0.0,0.236,77.2,39.0,11.8,2.0,439,6.3,3.4,2.07
+"Cereal wafer straws, KELLOGG, FROOT LOOPS Cereal straws",Breakfast Cereals,5.4,0.054,0.049,3.1,0.0,0.008,78.4,38.6,11.4,2.0,438,5.9,3.3,2.16
+"Cereals ready to eat, composite character cereals (movies, TV), brand A",Breakfast Cereals,6.13,0.107,0.648,3.6,0.0525,0.165,85.9,39.25,2.33,2.68,389,0.525,0.975,0.775
+"Cereals ready to eat, composite character cereals (movies, TV), brand B",Breakfast Cereals,3.33,0.333,0.533,0.0,0.02,0.033,90.0,46.67,1.67,2.5,388,0.0,1.667,0.0
+"Cereals ready-to-eat, APPLE CINNAMON SQUARES MINI-WHEATS",Breakfast Cereals,7.2,0.038,0.036,8.6,0.0,0.302,80.1,21.2,1.8,9.5,331,0.4,0.5,0.9
+"Cereals ready-to-eat, Cranberry Macadamia Nut Cereal",Breakfast Cereals,6.64,0.126,0.418,6.0,0.0179,0.224,76.98,28.73,9.82,4.26,408,1.65,6.54,0.84
+"Cereals ready-to-eat, FAMILIA",Breakfast Cereals,9.5,0.173,0.05,8.5,0.0006,0.494,73.8,26.2,6.3,1.9,388,0.711,3.205,1.656
+"Cereals ready-to-eat, GENERAL MILLS Cinnamon CHEX",Breakfast Cereals,4.6,0.333,0.612,2.2,0.02,0.135,82.9,26.0,6.8,2.3,403,0.7,4.5,1.4
+"Cereals ready-to-eat, GENERAL MILLS Peanut Butter Toast Crunch",Breakfast Cereals,6.67,0.333,0.45,3.3,0.02,0.2,76.0,43.33,11.67,2.1,433,1.67,6.67,3.33
+"Cereals ready-to-eat, GENERAL MILLS, APPLE CINNAMON CHEERIOS",Breakfast Cereals,6.67,0.333,0.442,4.0,0.02,0.2,83.33,43.33,5.0,2.3,400,0.0,3.33,1.67
+"Cereals ready-to-eat, GENERAL MILLS, BASIC 4",Breakfast Cereals,7.0,0.455,0.586,6.3,0.0,0.286,78.8,25.45,4.0,6.27,358,1.4,1.3,0.9
+"Cereals ready-to-eat, GENERAL MILLS, BERRY BERRY KIX",Breakfast Cereals,3.33,0.385,0.69,3.3,0.02,0.156,86.67,30.0,3.5,2.3,379,0.5,1.5,1.1
+"Cereals ready-to-eat, GENERAL MILLS, BOO BERRY",Breakfast Cereals,5.1,0.067,0.59,3.2,0.02,0.131,86.9,36.4,3.33,2.02,384,0.522,1.67,0.0
+"Cereals ready-to-eat, GENERAL MILLS, CHEERIOS",Breakfast Cereals,11.33,0.408,0.571,10.1,0.0244,0.609,74.68,4.02,5.9,3.76,367,0.954,1.917,1.973
+"Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Banana Nut",Breakfast Cereals,5.4,0.357,0.57,6.1,0.0536,0.252,84.7,33.4,4.0,2.2,374,0.7,1.2,1.9
+"Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Chocolate",Breakfast Cereals,5.6,0.37,0.629,6.2,0.0556,0.291,83.4,34.5,5.1,2.2,380,1.1,1.6,2.1
+"Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Yogurt Burst",Breakfast Cereals,6.67,0.333,0.584,6.7,0.05,0.233,81.75,33.33,5.23,2.23,400,1.667,1.667,1.667
+"Cereals ready-to-eat, GENERAL MILLS, CHOCOLATE LUCKY CHARMS",Breakfast Cereals,5.3,0.357,0.568,5.2,0.0214,0.23,84.8,42.86,4.0,2.34,378,0.551,1.607,1.145
+"Cereals ready-to-eat, GENERAL MILLS, CINNAMON TOAST CRUNCH",Breakfast Cereals,5.27,0.451,0.701,3.8,0.0235,0.152,79.73,33.15,9.38,2.64,414,1.422,3.211,3.061
+"Cereals ready-to-eat, GENERAL MILLS, COCOA PUFFS",Breakfast Cereals,5.2,0.333,0.546,6.5,0.02,0.266,84.4,42.3,5.1,1.8,385,0.0,3.33,0.0
+"Cereals ready-to-eat, GENERAL MILLS, COOKIE CRISP",Breakfast Cereals,4.7,0.385,0.554,4.6,0.02,0.185,85.8,39.6,3.6,2.3,377,0.6,1.0,1.4
+"Cereals ready-to-eat, GENERAL MILLS, COUNT CHOCULA",Breakfast Cereals,4.3,0.37,0.587,3.8,0.02,0.194,86.4,44.9,3.7,2.02,382,0.692,1.633,0.703
+"Cereals ready-to-eat, GENERAL MILLS, Chocolate CHEX",Breakfast Cereals,4.9,0.313,0.745,1.8,0.0188,0.169,80.9,26.2,8.3,2.2,411,1.3,5.1,1.6
+"Cereals ready-to-eat, GENERAL MILLS, Cinnamon Grahams",Breakfast Cereals,5.0,0.333,0.789,3.2,0.02,0.147,86.0,38.0,2.8,2.63,378,0.5,1.012,1.04
+"Cereals ready-to-eat, GENERAL MILLS, Cinnamon Toast Crunch, reduced sugar",Breakfast Cereals,4.9,0.714,0.718,8.9,0.02,0.15,77.4,22.1,10.2,2.64,381,1.0,6.8,2.1
+"Cereals ready-to-eat, GENERAL MILLS, Corn CHEX",Breakfast Cereals,6.67,0.333,0.762,4.0,0.02,0.15,85.06,10.0,1.67,2.5,367,0.381,0.381,0.657
+"Cereals ready-to-eat, GENERAL MILLS, Curves Fruit & Nut Crunch cereal",Breakfast Cereals,6.12,0.204,0.49,10.2,0.0122,0.306,85.44,20.41,3.06,3.0,347,0.389,1.411,1.02
+"Cereals ready-to-eat, GENERAL MILLS, DORA THE EXPLORER",Breakfast Cereals,3.7,0.37,0.643,11.1,0.0222,0.186,84.97,22.22,5.56,2.79,370,0.495,2.938,1.79
+"Cereals ready-to-eat, GENERAL MILLS, FIBER ONE",Breakfast Cereals,6.67,0.333,0.352,47.3,0.02,0.6,83.33,0.0,3.33,3.19,200,0.379,0.44,1.366
+"Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, Caramel Delight",Breakfast Cereals,6.0,0.2,0.452,16.7,0.012,0.263,82.5,21.5,5.9,2.8,352,1.2,2.3,2.3
+"Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, Honey Clusters",Breakfast Cereals,6.5,0.192,0.462,24.5,0.0,0.349,84.9,11.2,2.8,2.7,301,0.5,0.5,1.0
+"Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, Raisin Bran Clusters",Breakfast Cereals,5.2,0.182,0.384,21.0,0.0,0.391,85.2,24.6,2.2,4.6,311,0.4,0.4,0.7
+"Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, Shredded Wheat",Breakfast Cereals,8.4,0.0,0.002,13.7,0.0,0.305,81.7,20.3,1.7,6.0,321,0.3,0.3,0.7
+"Cereals ready-to-eat, GENERAL MILLS, FRANKENBERRY",Breakfast Cereals,5.0,0.303,0.59,3.2,0.02,0.131,86.9,37.3,3.0,2.02,384,0.5,0.9,1.3
+"Cereals ready-to-eat, GENERAL MILLS, FROSTED CHEERIOS",Breakfast Cereals,7.5,0.357,0.617,6.0,0.0214,0.208,82.6,36.8,3.9,2.2,378,0.9,1.4,1.4
+"Cereals ready-to-eat, GENERAL MILLS, French Toast Crunch",Breakfast Cereals,6.25,0.313,0.719,3.1,0.0188,0.141,77.55,34.38,10.94,2.05,438,0.592,7.81,1.56
+"Cereals ready-to-eat, GENERAL MILLS, Frosted CHEX",Breakfast Cereals,3.65,0.333,0.6,0.0,0.02,0.1,89.26,33.33,1.67,2.2,367,0.317,0.503,0.589
+"Cereals ready-to-eat, GENERAL MILLS, Fruity CHEERIOS",Breakfast Cereals,5.81,0.37,0.493,6.0,0.0556,0.217,85.6,33.33,3.9,2.55,370,0.456,1.458,1.407
+"Cereals ready-to-eat, GENERAL MILLS, GENERAL MILLS Berry Burst CHEERIOS, all flavors",Breakfast Cereals,10.0,0.37,0.639,7.3,0.07,0.259,80.0,31.11,4.0,2.07,367,0.0,2.536,1.272
+"Cereals ready-to-eat, GENERAL MILLS, GOLDEN GRAHAMS",Breakfast Cereals,5.1,0.323,0.852,4.3,0.02,0.189,84.6,34.3,3.7,2.2,378,0.323,1.67,0.982
+"Cereals ready-to-eat, GENERAL MILLS, HARMONY",Breakfast Cereals,11.0,1.091,0.645,4.0,0.055,0.166,79.0,24.0,2.2,2.83,365,0.5,0.814,0.601
+"Cereals ready-to-eat, GENERAL MILLS, HONEY NUT CHEERIOS",Breakfast Cereals,10.71,0.357,0.568,7.1,0.0214,0.411,77.33,32.14,5.36,2.2,393,0.0,1.79,1.79
+"Cereals ready-to-eat, GENERAL MILLS, HONEY NUT CLUSTERS",Breakfast Cereals,7.27,0.036,0.515,5.5,0.0109,0.245,83.64,30.91,4.55,2.15,382,0.0,2.73,0.91
+"Cereals ready-to-eat, GENERAL MILLS, Honey Nut CHEX",Breakfast Cereals,6.67,0.333,0.619,1.0,0.02,0.117,86.0,30.0,1.67,2.2,400,0.278,0.585,0.615
+"Cereals ready-to-eat, GENERAL MILLS, KABOOM",Breakfast Cereals,3.33,0.333,0.633,3.3,0.02,0.133,87.26,20.0,3.33,2.37,400,0.452,1.116,1.341
+"Cereals ready-to-eat, GENERAL MILLS, KIX",Breakfast Cereals,6.8,0.57,0.631,8.9,0.0254,0.188,84.9,9.76,2.6,2.79,367,0.432,0.743,0.958
+"Cereals ready-to-eat, GENERAL MILLS, LUCKY CHARMS",Breakfast Cereals,7.02,0.399,0.721,4.7,0.0233,0.182,82.9,39.93,3.63,3.17,407,0.602,1.195,1.183
+"Cereals ready-to-eat, GENERAL MILLS, Multi-Bran CHEX",Breakfast Cereals,6.9,0.213,0.564,12.1,0.0128,0.379,84.06,20.69,2.59,2.5,328,0.481,0.589,0.86
+"Cereals ready-to-eat, GENERAL MILLS, Multi-Grain Cheerios",Breakfast Cereals,6.9,0.345,0.555,9.3,0.0517,0.292,83.34,20.69,3.45,2.5,379,0.531,1.011,1.38
+"Cereals ready-to-eat, GENERAL MILLS, NATURE VALLEY LOW FAT FRUIT GRANOLA",Breakfast Cereals,8.0,0.036,0.376,5.0,0.0,0.279,80.0,33.41,4.6,6.72,386,0.85,2.115,1.142
+"Cereals ready-to-eat, GENERAL MILLS, OATMEAL CRISP with Almonds",Breakfast Cereals,9.09,0.036,0.207,7.5,0.0109,0.327,77.25,29.09,8.18,2.86,400,0.91,3.64,2.73
+"Cereals ready-to-eat, GENERAL MILLS, OATMEAL CRISP, APPLE CINNAMON",Breakfast Cereals,7.27,0.036,0.491,7.3,0.0109,0.309,84.0,34.55,3.64,2.59,382,0.91,1.82,0.91
+"Cereals ready-to-eat, GENERAL MILLS, Oatmeal Crisp, Raisin",Breakfast Cereals,8.5,0.032,0.196,7.5,0.0,0.346,83.1,31.9,3.9,2.5,382,0.8,1.1,1.3
+"Cereals ready-to-eat, GENERAL MILLS, RAISIN NUT BRAN",Breakfast Cereals,7.27,0.036,0.461,9.8,0.0,0.35,76.36,27.27,6.36,7.54,364,0.91,2.73,0.91
+"Cereals ready-to-eat, GENERAL MILLS, REESE'S PUFFS",Breakfast Cereals,6.67,0.333,0.662,4.0,0.02,0.217,75.86,40.0,11.67,2.67,433,1.67,5.0,3.33
+"Cereals ready-to-eat, GENERAL MILLS, Rice CHEX",Breakfast Cereals,6.45,0.37,0.91,1.0,0.0222,0.167,85.42,7.41,1.61,2.5,382,0.348,0.552,0.525
+"Cereals ready-to-eat, GENERAL MILLS, TOTAL Corn Flakes",Breakfast Cereals,6.05,3.333,0.698,2.5,0.2,0.094,85.55,11.0,1.61,2.56,373,0.4,0.214,0.368
+"Cereals ready-to-eat, GENERAL MILLS, TOTAL Raisin Bran",Breakfast Cereals,5.45,1.818,0.438,9.1,0.0,0.564,76.36,34.55,1.82,8.75,309,0.297,0.262,0.914
+"Cereals ready-to-eat, GENERAL MILLS, TOTAL, Blueberry Pomegranate",Breakfast Cereals,9.3,2.041,0.195,8.0,0.1224,0.287,76.8,21.9,3.7,2.9,353,0.8,1.1,1.3
+"Cereals ready-to-eat, GENERAL MILLS, TOTAL, Cranberry Crunch",Breakfast Cereals,6.2,1.724,0.334,7.3,0.0,0.24,78.8,27.9,2.0,4.0,335,0.5,0.4,1.0
+"Cereals ready-to-eat, GENERAL MILLS, TRIX",Breakfast Cereals,4.7,0.313,0.588,4.3,0.02,0.163,85.9,34.4,4.1,2.0,384,0.67,1.8,1.596
+"Cereals ready-to-eat, GENERAL MILLS, TRIX, reduced sugar, bowlpak",Breakfast Cereals,4.76,0.381,0.571,4.8,0.0171,0.143,85.49,28.57,4.76,2.0,400,0.67,2.334,1.596
+"Cereals ready-to-eat, GENERAL MILLS, WHEATIES",Breakfast Cereals,9.4,0.067,0.737,11.7,0.02,0.35,82.6,13.33,1.8,2.59,347,0.5,0.3,1.0
+"Cereals ready-to-eat, GENERAL MILLS, WHEATIES Raisin Bran",Breakfast Cereals,7.0,0.0,0.457,9.0,0.0,0.413,81.0,33.0,1.7,7.0,333,0.4,0.169,0.644
+"Cereals ready-to-eat, GENERAL MILLS, WHEATIES, Fuel",Breakfast Cereals,6.0,0.182,0.276,9.7,0.0273,0.215,82.8,24.9,5.8,3.0,375,0.8,3.1,1.3
+"Cereals ready-to-eat, GENERAL MILLS, Wheat CHEX",Breakfast Cereals,10.0,0.2,0.635,10.8,0.012,0.368,81.09,10.0,2.0,2.5,360,0.328,0.248,0.832
+"Cereals ready-to-eat, GENERAL MILLS, Whole Grain TOTAL",Breakfast Cereals,8.4,3.333,0.655,9.1,0.2,0.306,74.5,16.2,2.1,2.67,319,0.6,0.3,0.8
+"Cereals ready-to-eat, HEALTH VALLEY, FIBER 7 Flakes",Breakfast Cereals,14.44,0.071,0.053,14.1,0.0042,0.46,78.15,1.86,1.41,3.0,353,0.261,0.244,0.61
+"Cereals ready-to-eat, JUST RIGHT with Crunchy Nuggets",Breakfast Cereals,7.7,0.026,0.614,5.1,0.0,0.22,83.7,21.2,2.7,3.2,371,0.2,0.5,1.9
+"Cereals ready-to-eat, KASHI 7 Whole Grain Flakes",Breakfast Cereals,11.0,0.03,0.303,11.3,0.0,0.319,81.8,8.6,1.95,3.4,350,0.4,0.4,1.2
+"Cereals ready-to-eat, KASHI 7 Whole Grain Honey Puffs",Breakfast Cereals,10.0,0.029,0.01,6.7,0.0,0.264,82.5,23.0,3.3,3.0,381,0.359,0.558,0.866
+"Cereals ready-to-eat, KASHI 7 Whole Grain Nuggets",Breakfast Cereals,11.8,0.041,0.448,11.7,0.0,0.0,81.0,5.0,2.8,3.0,356,0.6,0.6,1.6
+"Cereals ready-to-eat, KASHI GO LEAN CRUNCH!, Honey Almond Flax",Breakfast Cereals,16.6,0.101,0.261,16.2,0.0,0.486,67.0,23.0,8.3,3.5,381,0.7,4.1,3.5
+"Cereals ready-to-eat, KASHI GOLEAN",Breakfast Cereals,26.1,0.14,0.165,19.6,0.0,0.926,58.0,12.0,2.0,2.2,284,0.4,0.4,1.1
+"Cereals ready-to-eat, KASHI GOLEAN CRUNCH!",Breakfast Cereals,17.5,0.087,0.19,15.2,0.0,0.566,67.9,24.6,5.8,4.0,377,0.47,3.23,2.1
+"Cereals ready-to-eat, KASHI GRANOLA, COCOA BEACH Cereal",Breakfast Cereals,11.0,0.051,0.25,12.7,0.0,0.272,61.0,19.8,16.7,4.0,410,3.2,8.1,5.4
+"Cereals ready-to-eat, KASHI GRANOLA, Mountain Medley Cereal",Breakfast Cereals,11.0,0.032,0.22,11.5,0.0,0.255,66.5,22.0,13.0,3.0,397,2.1,7.2,3.7
+"Cereals ready-to-eat, KASHI GRANOLA, ORCHARD SPICE CEREAL",Breakfast Cereals,11.0,0.04,0.24,11.4,0.0,0.279,67.0,20.0,13.4,3.0,403,1.7,6.99,4.7
+"Cereals ready-to-eat, KASHI GRANOLA, Summer Berry Cereal",Breakfast Cereals,12.0,0.038,0.24,12.4,0.0,0.235,66.6,17.0,11.6,4.0,390,1.6,5.5,4.5
+"Cereals ready-to-eat, KASHI Good Friends",Breakfast Cereals,9.4,0.034,0.2,22.2,0.0,0.495,81.8,17.0,3.6,2.0,316,0.4,1.0,1.7
+"Cereals ready-to-eat, KASHI HEART TO HEART, Honey Toasted Oat",Breakfast Cereals,12.0,0.042,0.25,13.4,0.091,0.29,76.4,17.7,5.0,2.8,357,1.0,1.1,1.2
+"Cereals ready-to-eat, KASHI Heart to Heart Warm Cinnamon",Breakfast Cereals,12.9,0.047,0.242,14.2,0.089,0.296,75.8,14.3,5.0,2.8,355,1.0,1.1,1.2
+"Cereals ready-to-eat, KASHI MIGHTY BITES, Honey Crunch Cereal",Breakfast Cereals,17.0,0.455,0.482,9.0,0.046,0.33,69.0,17.0,4.0,2.8,353,0.8,1.6,1.6
+"Cereals ready-to-eat, KASHI ORGANIC PROMISE CINNAMON HARVEST",Breakfast Cereals,8.3,0.0,0.01,10.3,0.0,0.313,81.0,16.5,2.0,5.9,340,0.4,0.4,1.2
+"Cereals ready-to-eat, KASHI ORGANIC PROMISE Island Vanilla Biscuit",Breakfast Cereals,10.7,0.0,0.01,10.7,0.0,0.31,80.8,16.9,2.0,2.5,350,0.0,0.3,1.1
+"Cereals ready-to-eat, KASHI ORGANIC PROMISE STRAWBERRY FIELDS",Breakfast Cereals,7.8,0.016,0.625,3.5,0.0225,0.122,87.1,29.3,0.43,2.4,369,0.0,0.0,0.0
+"Cereals ready-to-eat, KASHI, CINNA-RAISIN CRUNCH",Breakfast Cereals,7.9,0.032,0.208,15.1,0.0,0.442,82.0,25.0,2.8,5.0,330,0.4,1.0,1.4
+"Cereals ready-to-eat, KASHI, HEART TO HEART, Wild Blueberry",Breakfast Cereals,10.9,0.045,0.241,7.0,0.0545,0.211,76.0,22.0,4.7,3.0,370,0.9,1.2,2.6
+"Cereals ready-to-eat, KASHI, Kashi U",Breakfast Cereals,10.0,0.364,0.23,12.0,0.055,0.22,76.0,18.0,7.0,3.0,367,0.5,2.2,3.7
+"Cereals ready-to-eat, KASHI, ORGANIC PROMISE Autumn Wheat",Breakfast Cereals,9.7,0.0,0.0,11.2,0.0,0.334,83.0,13.4,2.1,3.9,353,0.202,0.154,0.482
+"Cereals ready-to-eat, KELLOGG'S FROSTED MINI-WHEATS, original",Breakfast Cereals,9.0,0.033,0.01,10.0,0.0,0.352,82.0,21.0,1.6,6.0,343,0.36,0.24,1.0
+"Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolatey Delight",Breakfast Cereals,7.0,0.018,0.579,7.0,0.068,0.268,81.0,30.0,7.0,3.0,393,6.0,0.2,0.6
+"Cereals ready-to-eat, KELLOGG'S, FROSTED MINI-WHEATS, Maple & Brown Sugar, Bite Size",Breakfast Cereals,8.0,0.033,0.001,9.6,0.0,0.338,82.0,24.0,1.5,6.0,356,0.3,0.2,1.0
+"Cereals ready-to-eat, KELLOGG'S, FRUIT HARVEST Strawberry/Blueberry",Breakfast Cereals,6.0,0.026,0.472,4.6,0.004,0.284,87.0,34.0,1.2,3.0,368,0.3,0.3,0.6
+"Cereals ready-to-eat, KELLOGG'S, Reduced Sugar FROOT LOOPS",Breakfast Cereals,6.3,0.017,0.56,10.3,0.047,0.07,83.8,30.9,4.0,2.5,394,1.5,0.4,0.5
+"Cereals ready-to-eat, KELLOGG'S, Reduced Sugar Frosted Flakes Cereal",Breakfast Cereals,5.3,0.006,0.57,1.1,0.023,0.083,90.2,27.0,0.17,3.0,377,0.05,0.03,0.09
+"Cereals ready-to-eat, KELLOGG'S, SPECIAL K Low Carb Lifestyle Protein Plus",Breakfast Cereals,33.7,0.135,0.38,17.0,0.072,1.111,47.8,6.7,9.7,3.0,349,2.0,2.3,5.4
+"Cereals ready-to-eat, KELLOGG'S, SPECIAL K Vanilla Almond",Breakfast Cereals,7.0,0.038,0.568,5.6,0.07,0.232,83.0,28.0,4.9,2.3,384,0.6,2.8,1.5
+"Cereals ready-to-eat, KELLOGG's MINI-WHEATS Frosted Strawberry Delight Cereal",Breakfast Cereals,8.3,0.031,0.0,9.6,0.0,0.33,83.0,23.5,1.7,6.0,347,0.3,0.3,1.1
+"Cereals ready-to-eat, KELLOGG, All-Bran Strawberry Medley",Breakfast Cereals,10.0,0.018,0.42,18.0,0.011,0.64,80.0,19.0,3.0,4.6,318,0.5,0.4,2.0
+"Cereals ready-to-eat, KELLOGG, Berry RICE KRISPIES",Breakfast Cereals,5.5,0.008,0.726,0.3,0.02,0.101,88.0,31.0,1.0,2.9,382,0.3,0.3,0.4
+"Cereals ready-to-eat, KELLOGG, EGGO Crunch Cereal, maple flavored",Breakfast Cereals,6.6,0.167,0.472,5.9,0.0455,0.212,83.0,40.0,4.4,2.5,376,1.5,1.6,1.3
+"Cereals ready-to-eat, KELLOGG, Frosted MINI-WHEATS bite size STRAWBERRY DELIGHT",Breakfast Cereals,8.3,0.031,0.0,9.6,0.0,0.0,83.0,23.5,1.7,6.0,347,0.3,0.3,1.1
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN BRAN BUDS",Breakfast Cereals,7.0,0.063,0.68,43.0,0.02,1.0,80.0,27.0,2.15,3.0,250,0.4,0.5,1.3
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN Original",Breakfast Cereals,13.14,0.389,0.26,29.3,0.02,1.02,74.24,15.69,4.9,2.12,260,0.63,0.67,2.11
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN WITH EXTRA FIBER",Breakfast Cereals,11.3,0.415,0.475,50.0,0.025,1.05,77.0,0.37,3.5,3.0,192,0.6,0.7,2.2
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN Yogurt Bites",Breakfast Cereals,11.0,0.064,0.42,18.0,0.011,0.521,78.8,13.0,5.24,2.32,342,3.0,0.6,1.4
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S APPLE JACKS",Breakfast Cereals,5.0,0.011,0.443,9.3,0.0594,0.12,88.2,44.0,2.0,2.98,366,0.375,0.531,0.734
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S COCOA KRISPIES",Breakfast Cereals,5.22,0.13,0.424,1.9,0.0484,0.189,86.05,33.96,2.9,2.81,381,1.99,0.4,0.23
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S COMPLETE Wheat Flakes",Breakfast Cereals,10.0,0.052,0.72,17.5,0.207,0.59,79.0,17.0,2.0,3.0,318,0.4,0.5,1.1
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S CORN POPS",Breakfast Cereals,4.6,0.011,0.387,9.0,0.019,0.148,90.4,32.1,1.3,2.5,389,0.18,0.2,0.5
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S CRACKLIN' OAT BRAN",Breakfast Cereals,8.0,0.06,0.309,12.7,0.031,0.45,71.8,32.0,13.9,3.0,402,6.1,4.7,3.0
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S CRISPIX",Breakfast Cereals,6.7,0.01,0.751,1.1,0.021,0.135,85.7,12.1,1.0,3.35,377,0.225,0.225,0.45
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Cinnamon MINI SWIRLZ",Breakfast Cereals,5.7,0.024,0.386,3.4,0.05,0.151,83.0,11.0,6.9,1.8,406,1.1,2.6,1.9
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Complete Oat Bran Flakes",Breakfast Cereals,11.0,0.054,0.699,13.0,0.21,0.4,77.0,20.0,3.5,3.0,350,0.8,1.7,1.0
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Corn Flakes",Breakfast Cereals,6.61,0.004,0.723,2.5,0.022,0.079,87.11,10.5,0.59,3.76,361,0.172,0.099,0.289
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S FROOT LOOPS",Breakfast Cereals,5.1,0.012,0.456,9.5,0.046,0.143,86.6,42.5,3.6,3.0,373,2.0,0.3,0.4
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED FLAKES",Breakfast Cereals,4.34,0.003,0.462,1.8,0.0267,0.075,90.86,38.72,0.26,3.27,367,0.069,0.04,0.102
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED MINI-WHEATS, bite size",Breakfast Cereals,10.1,0.032,0.01,10.0,0.0,0.345,81.0,20.1,1.6,6.0,344,0.36,0.24,1.0
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED RICE KRISPIES",Breakfast Cereals,5.0,0.007,0.371,0.3,0.05,0.059,89.0,39.0,0.9,2.9,384,0.3,0.3,0.3
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S HONEY CRUNCH CORN FLAKES",Breakfast Cereals,6.8,0.022,0.7,3.4,0.02,0.102,87.0,33.0,1.9,3.0,385,0.3,1.0,0.6
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Honey SMACKS",Breakfast Cereals,6.0,0.024,0.19,3.7,0.0226,0.15,89.0,56.0,2.0,2.5,388,0.3,0.65,0.9
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S JUST RIGHT Fruit & Nut",Breakfast Cereals,7.0,0.035,0.459,5.2,0.0,0.269,81.7,25.0,3.3,5.9,366,0.5,1.5,1.3
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Low Fat Granola with Raisins",Breakfast Cereals,9.0,0.032,0.24,7.0,0.002,0.2,79.0,28.0,5.0,3.5,377,1.4,2.0,1.6
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Low Fat Granola without Raisins",Breakfast Cereals,8.0,0.039,0.219,6.1,0.002,0.249,81.5,28.0,5.2,3.5,387,1.3,2.2,1.7
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S MARSHMALLOW FROOT LOOPS",Breakfast Cereals,4.5,0.01,0.383,6.8,0.038,0.116,87.9,50.7,3.0,2.5,374,1.3,0.2,0.3
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S MUESLIX",Breakfast Cereals,9.1,0.058,0.309,7.3,0.0004,0.436,73.0,31.0,5.5,8.7,357,0.8,2.9,1.8
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S PRODUCT 19",Breakfast Cereals,7.7,0.016,0.69,3.3,0.204,0.167,83.0,13.3,1.4,3.0,333,0.3,0.4,0.7
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Puffed Wheat",Breakfast Cereals,15.0,0.04,0.003,15.0,0.0,0.475,77.0,0.0,1.6,4.0,322,0.3,0.6,0.7
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISIN BRAN",Breakfast Cereals,8.59,0.047,0.425,11.1,0.0,0.567,77.36,29.9,2.19,8.77,322,0.353,0.291,0.73
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S RICE KRISPIES",Breakfast Cereals,6.84,0.007,0.561,0.8,0.047,0.088,85.24,9.46,0.96,4.13,387,0.216,0.279,0.295
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S RICE KRISPIES TREATS Cereal",Breakfast Cereals,4.8,0.01,0.55,0.2,0.02,0.077,84.7,31.0,4.6,3.5,399,0.9,1.6,0.6
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S SMART START Strong Heart Antioxidants Cereal",Breakfast Cereals,7.0,0.024,0.55,5.4,0.03,0.18,86.0,28.0,1.41,3.0,365,0.27,0.17,0.97
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K",Breakfast Cereals,18.0,0.025,0.658,8.5,0.0677,0.066,74.0,12.9,2.0,3.0,379,0.35,0.4,0.8
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K RED BERRIES",Breakfast Cereals,6.0,0.018,0.613,8.0,0.0677,0.223,86.0,30.0,1.0,3.0,359,0.24,0.2,0.6
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Shredded Wheat Miniatures",Breakfast Cereals,11.0,0.042,0.0,13.0,0.0,0.452,80.0,2.0,2.1,5.0,339,0.4,0.3,1.4
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Special K Blueberry",Breakfast Cereals,7.0,0.018,0.471,10.0,0.07,0.197,87.0,28.0,1.5,3.0,363,0.0,0.1,0.5
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Special K low fat granola",Breakfast Cereals,13.1,0.04,0.24,11.7,0.0,0.23,75.1,17.5,6.0,3.0,380,1.0,1.7,1.8
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S Special K, Cinnamon Pecan",Breakfast Cereals,8.0,0.03,0.649,8.0,0.07,0.264,81.0,24.0,6.0,3.0,384,1.0,0.1,0.6
+"Cereals ready-to-eat, KELLOGG, KELLOGG'S, RAISIN BRAN CRUNCH",Breakfast Cereals,6.1,0.035,0.39,7.6,0.0013,0.401,84.9,37.7,1.9,5.3,354,0.38,0.7,0.8
+"Cereals ready-to-eat, KELLOGG, SMART START Strong Heart, Maple Brown Sugar",Breakfast Cereals,10.0,0.036,0.23,8.5,0.025,0.633,79.0,28.0,3.7,3.5,367,0.7,1.1,1.9
+"Cereals ready-to-eat, KELLOGG, SMORZ",Breakfast Cereals,4.9,0.022,0.46,2.5,0.05,0.097,83.0,43.0,6.9,2.7,406,1.8,1.0,3.9
+"Cereals ready-to-eat, KELLOGG, SPECIAL K, Fruit & Yogurt",Breakfast Cereals,7.0,0.027,0.456,4.7,0.066,0.184,85.0,33.0,2.9,3.0,373,1.5,0.2,1.2
+"Cereals ready-to-eat, KELLOGG, Smart Start Strong Heart, Original",Breakfast Cereals,10.0,0.035,0.234,8.9,0.025,0.632,79.0,28.0,3.8,3.5,366,0.7,1.1,2.0
+"Cereals ready-to-eat, MALT-O-MEAL, Apple ZINGS",Breakfast Cereals,5.4,0.429,0.455,2.8,0.0597,0.14,87.3,42.9,2.66,2.2,395,0.447,1.26,0.835
+"Cereals ready-to-eat, MALT-O-MEAL, BERRY COLOSSAL CRUNCH",Breakfast Cereals,4.89,0.014,0.733,3.3,0.0036,0.114,85.9,41.3,5.44,1.56,412,0.091,1.4,0.63
+"Cereals ready-to-eat, MALT-O-MEAL, Blueberry Muffin Tops Cereal",Breakfast Cereals,4.9,0.356,0.466,4.8,0.0354,0.158,80.0,35.4,11.5,1.1,443,1.84,4.49,4.63
+"Cereals ready-to-eat, MALT-O-MEAL, CINNAMON TOASTERS",Breakfast Cereals,5.8,0.388,0.461,4.7,0.021,0.15,79.1,34.8,10.1,2.4,431,1.67,3.91,4.07
+"Cereals ready-to-eat, MALT-O-MEAL, COCO-ROOS",Breakfast Cereals,3.7,0.406,0.45,1.8,0.0205,0.195,89.5,46.5,2.6,2.0,396,0.464,1.61,0.419
+"Cereals ready-to-eat, MALT-O-MEAL, COLOSSAL CRUNCH",Breakfast Cereals,4.2,0.006,0.766,0.7,0.0,0.089,86.6,40.65,5.48,1.25,415,0.88,1.43,0.46
+"Cereals ready-to-eat, MALT-O-MEAL, CORN BURSTS",Breakfast Cereals,4.0,0.005,0.871,1.8,0.0605,0.059,93.7,43.6,0.34,0.9,394,0.165,0.042,0.113
+"Cereals ready-to-eat, MALT-O-MEAL, Cocoa DYNO-BITES",Breakfast Cereals,4.1,0.008,0.517,1.2,0.001,0.179,89.4,45.2,3.06,1.5,402,2.43,0.256,0.211
+"Cereals ready-to-eat, MALT-O-MEAL, Crispy Rice",Breakfast Cereals,6.3,0.007,0.909,1.0,0.0621,0.124,86.4,9.0,1.13,3.4,381,0.465,0.251,0.358
+"Cereals ready-to-eat, MALT-O-MEAL, Frosted Flakes",Breakfast Cereals,5.0,0.0,0.573,1.9,0.0615,0.067,90.9,37.4,0.4,2.1,387,0.13,0.07,0.19
+"Cereals ready-to-eat, MALT-O-MEAL, Frosted Mini SPOONERS",Breakfast Cereals,9.4,0.027,0.018,10.5,0.001,0.34,82.9,17.9,2.08,4.4,388,0.393,0.367,1.23
+"Cereals ready-to-eat, MALT-O-MEAL, Fruity DYNO-BITES",Breakfast Cereals,3.9,0.003,0.63,1.0,0.001,0.076,90.1,42.6,3.15,1.2,404,0.64,2.12,0.258
+"Cereals ready-to-eat, MALT-O-MEAL, GOLDEN PUFFS",Breakfast Cereals,5.77,0.011,0.241,2.6,0.0276,0.154,89.72,51.34,0.89,2.76,397,0.161,0.22,0.349
+"Cereals ready-to-eat, MALT-O-MEAL, Honey BUZZERS",Breakfast Cereals,6.3,0.014,0.759,2.9,0.0019,0.12,87.6,37.4,2.14,1.88,395,0.65,0.55,0.65
+"Cereals ready-to-eat, MALT-O-MEAL, Honey Nut TOASTY O'S Cereal",Breakfast Cereals,9.63,0.397,0.7,5.6,0.0306,0.309,81.53,38.73,2.16,1.9,390,0.435,0.831,0.871
+"Cereals ready-to-eat, MALT-O-MEAL, MARSHMALLOW MATEYS",Breakfast Cereals,7.2,0.457,0.667,4.6,0.0297,0.197,83.3,42.8,3.6,1.7,394,0.719,1.42,1.3
+"Cereals ready-to-eat, MALT-O-MEAL, Maple & Brown Sugar Hot Wheat Cereal, dry",Breakfast Cereals,8.0,0.314,0.01,3.1,0.001,0.13,84.5,35.6,0.75,5.9,377,0.19,0.096,0.428
+"Cereals ready-to-eat, MALT-O-MEAL, Puffed Rice Cereal",Breakfast Cereals,7.8,0.005,0.005,1.0,0.001,0.103,90.2,0.8,0.97,0.6,401,0.297,0.255,0.377
+"Cereals ready-to-eat, MALT-O-MEAL, Puffed Wheat Cereal",Breakfast Cereals,15.6,0.025,0.01,7.3,0.001,0.412,78.8,1.1,2.03,2.1,396,0.442,0.353,1.15
+"Cereals ready-to-eat, MALT-O-MEAL, Raisin Bran Cereal",Breakfast Cereals,9.0,0.045,0.576,13.5,0.013,0.578,76.9,30.3,1.98,8.5,361,0.476,0.401,1.01
+"Cereals ready-to-eat, MALT-O-MEAL, TOASTY O'S",Breakfast Cereals,13.1,0.406,0.897,10.7,0.0205,0.317,74.6,3.9,5.92,2.0,404,1.23,2.16,2.27
+"Cereals ready-to-eat, MALT-O-MEAL, TOOTIE FRUITIES",Breakfast Cereals,5.0,0.407,0.464,2.5,0.0703,0.131,87.9,45.7,3.29,1.5,401,0.687,1.47,0.976
+"Cereals ready-to-eat, MUESLI, dried fruit and nuts",Breakfast Cereals,9.7,0.0,0.231,7.3,0.0,0.486,77.8,31.0,4.9,5.8,340,0.805,2.38,1.315
+"Cereals ready-to-eat, Malt-O-Meal Honey Graham Squares",Breakfast Cereals,3.33,0.333,0.9,3.3,0.02,0.167,80.33,33.33,10.0,3.6,433,1.667,3.333,3.333
+"Cereals ready-to-eat, Marshmallow ALPHA-BITS",Breakfast Cereals,5.9,0.014,0.711,1.7,0.0,0.1,86.7,43.5,3.3,1.5,398,0.6,1.015,1.209
+"Cereals ready-to-eat, NATURE'S PATH, OPTIMUM",Breakfast Cereals,14.55,0.455,0.418,18.2,0.0022,0.751,73.37,29.09,4.55,3.67,345,0.0,0.962,3.11
+"Cereals ready-to-eat, NATURE'S PATH, OPTIMUM SLIM",Breakfast Cereals,16.36,0.455,0.527,20.0,0.0,0.956,69.09,18.18,4.55,4.07,327,0.0,1.13,2.903
+"Cereals ready-to-eat, OAT BRAN FLAKES, HEALTH VALLEY",Breakfast Cereals,10.7,0.038,0.036,13.0,0.0004,0.321,78.6,19.47,1.4,3.4,353,0.251,0.431,0.529
+"Cereals ready-to-eat, POST Banana Nut Crunch",Breakfast Cereals,8.5,0.036,0.39,6.8,0.0002,0.29,74.0,20.4,10.3,4.5,422,1.4,3.667,4.485
+"Cereals ready-to-eat, POST Blueberry Morning",Breakfast Cereals,6.6,0.027,0.473,3.8,0.0,0.166,79.2,20.8,4.5,7.2,383,0.6,2.008,1.466
+"Cereals ready-to-eat, POST Raisin Bran Cereal",Breakfast Cereals,9.33,0.054,0.424,12.1,0.008,0.613,76.84,28.06,2.5,8.13,317,0.39,0.46,1.05
+"Cereals ready-to-eat, POST Selects Cranberry Almond Crunch",Breakfast Cereals,7.4,0.029,0.225,6.0,0.0263,0.228,79.06,25.89,5.55,6.0,386,0.0,2.974,1.778
+"Cereals ready-to-eat, POST TOASTIES corn flakes",Breakfast Cereals,6.7,0.003,0.714,4.5,0.0,0.117,86.7,6.5,0.1,3.5,360,0.0,0.03,0.051
+"Cereals ready-to-eat, POST, 100% Bran Cereal",Breakfast Cereals,12.7,0.076,0.417,28.6,0.0,0.947,78.2,24.4,2.1,2.8,287,0.3,0.316,1.101
+"Cereals ready-to-eat, POST, ALPHA-BITS",Breakfast Cereals,8.5,0.03,0.571,4.1,0.0,0.194,83.5,39.0,4.1,1.3,405,0.8,1.175,1.487
+"Cereals ready-to-eat, POST, COCOA PEBBLES",Breakfast Cereals,3.5,0.012,0.633,1.6,0.0,0.146,87.9,44.0,4.2,2.9,398,3.7,0.131,0.128
+"Cereals ready-to-eat, POST, FRUITY PEBBLES",Breakfast Cereals,3.6,0.005,0.633,0.7,0.0,0.11,87.9,44.0,3.9,3.0,401,0.9,1.632,1.294
+"Cereals ready-to-eat, POST, GRAPE-NUTS Cereal",Breakfast Cereals,12.48,0.039,0.5,8.8,0.0,0.338,80.1,12.61,1.85,3.0,359,0.305,0.261,0.871
+"Cereals ready-to-eat, POST, GRAPE-NUTS Flakes",Breakfast Cereals,10.0,0.039,0.431,8.8,0.0,0.34,81.5,17.6,2.9,3.2,365,0.6,0.0,0.0
+"Cereals ready-to-eat, POST, GREAT GRAINS Crunchy Pecan Cereal",Breakfast Cereals,9.3,0.028,0.403,7.0,0.0002,0.321,71.4,15.3,11.8,5.8,408,1.4,0.0,0.0
+"Cereals ready-to-eat, POST, Golden Crisp",Breakfast Cereals,5.5,0.015,0.093,0.0,0.0,0.125,90.9,53.9,1.4,2.9,398,0.2,0.45,0.553
+"Cereals ready-to-eat, POST, Great Grains, Raisin, Date & Pecan",Breakfast Cereals,8.0,0.031,0.296,7.4,0.0001,0.326,73.2,24.6,8.4,8.7,377,1.1,3.664,2.953
+"Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, honey roasted",Breakfast Cereals,7.33,0.023,0.5,4.8,0.0,0.185,82.86,24.66,4.25,3.4,394,0.374,1.901,1.215
+"Cereals ready-to-eat, POST, Honey Bunches of Oats, with almonds",Breakfast Cereals,7.8,0.037,0.438,4.5,0.0001,0.227,78.0,21.0,8.5,3.0,407,1.1,4.176,2.737
+"Cereals ready-to-eat, POST, Honey Nut Shredded Wheat",Breakfast Cereals,9.82,0.027,0.135,7.7,0.0,0.253,81.22,23.08,3.77,3.82,385,0.469,1.759,1.196
+"Cereals ready-to-eat, POST, Honeycomb Cereal",Breakfast Cereals,5.2,0.017,0.563,2.5,0.0,0.12,88.9,38.3,2.1,1.5,395,0.6,0.49,0.69
+"Cereals ready-to-eat, POST, OREO O's Cereal",Breakfast Cereals,4.8,0.019,0.475,5.5,0.0,0.183,81.9,47.0,8.8,2.5,415,1.6,3.346,3.304
+"Cereals ready-to-eat, POST, Shredded Wheat n' Bran, spoon-size",Breakfast Cereals,12.5,0.045,0.005,13.4,0.0,0.42,79.9,1.0,1.4,4.5,334,0.2,0.173,0.634
+"Cereals ready-to-eat, POST, Shredded Wheat, bite-size",Breakfast Cereals,7.8,0.013,0.019,9.6,0.0,0.327,83.8,22.3,1.9,6.0,352,0.3,0.271,0.925
+"Cereals ready-to-eat, POST, Shredded Wheat, spoon-size",Breakfast Cereals,10.3,0.043,0.007,11.4,0.0,0.415,83.0,0.9,1.1,4.1,340,0.2,0.119,0.439
+"Cereals ready-to-eat, Puffed KASHI",Breakfast Cereals,13.0,0.038,0.01,8.0,0.0,0.28,79.4,3.2,2.5,3.0,336,0.509,0.679,1.103
+"Cereals ready-to-eat, QUAKER, 100% Natural Granola Oats and Honey",Breakfast Cereals,10.38,0.117,0.049,6.9,0.0002,0.463,72.64,25.79,12.86,2.21,429,7.94,2.64,1.69
+"Cereals ready-to-eat, QUAKER, CAP'N CRUNCH",Breakfast Cereals,4.37,0.011,0.782,2.5,0.0,0.185,84.78,43.84,5.89,2.5,402,4.2,0.7,0.79
+"Cereals ready-to-eat, QUAKER, CAP'N CRUNCH with CRUNCHBERRIES",Breakfast Cereals,4.41,0.014,0.715,2.5,0.0001,0.188,85.19,44.73,5.64,2.5,402,3.91,0.72,0.8
+"Cereals ready-to-eat, QUAKER, CAP'N CRUNCH'S PEANUT BUTTER CRUNCH",Breakfast Cereals,7.1,0.009,0.742,2.7,0.0,0.237,78.72,33.12,9.16,2.5,416,4.01,2.63,2.16
+"Cereals ready-to-eat, QUAKER, HONEY GRAHAM OH!S",Breakfast Cereals,4.09,0.01,0.612,2.0,0.0294,0.164,83.61,42.97,7.45,2.75,411,5.79,0.76,0.79
+"Cereals ready-to-eat, QUAKER, Honey Graham bagged cereal",Breakfast Cereals,5.6,0.035,0.825,2.8,0.0236,0.234,83.64,38.37,5.24,2.5,395,1.31,0.81,0.7
+"Cereals ready-to-eat, QUAKER, Honey Nut Oats",Breakfast Cereals,6.04,0.027,0.805,4.3,0.0236,0.191,84.53,38.64,3.65,2.5,385,0.63,1.44,0.95
+"Cereals ready-to-eat, QUAKER, KING VITAMAN",Breakfast Cereals,6.54,0.01,0.837,3.5,0.04,0.274,85.0,20.18,3.47,2.0,386,1.58,0.65,1.14
+"Cereals ready-to-eat, QUAKER, KRETSCHMER Honey Crunch Wheat Germ",Breakfast Cereals,26.55,0.05,0.011,10.2,0.0,0.964,58.11,24.85,7.78,3.4,372,1.36,1.04,4.84
+"Cereals ready-to-eat, QUAKER, KRETSCHMER Toasted Wheat Bran",Breakfast Cereals,17.56,0.066,0.006,41.3,0.0,1.284,59.51,0.0,5.16,11.72,200,0.77,0.8,2.72
+"Cereals ready-to-eat, QUAKER, KRETSCHMER Wheat Germ, Regular",Breakfast Cereals,31.43,0.05,0.006,11.9,0.006,1.097,49.38,0.0,9.56,4.78,366,1.66,1.25,5.98
+"Cereals ready-to-eat, QUAKER, Low Fat 100% Natural Granola with Raisins",Breakfast Cereals,7.87,0.064,0.253,5.6,0.0007,0.412,81.12,33.6,5.54,3.5,390,2.57,1.37,1.08
+"Cereals ready-to-eat, QUAKER, MOTHER'S CINNAMON OAT CRUNCH",Breakfast Cereals,10.49,0.074,0.419,8.3,0.0001,0.537,79.21,25.07,4.64,2.5,380,0.79,1.45,1.41
+"Cereals ready-to-eat, QUAKER, MOTHER'S COCOA BUMPERS",Breakfast Cereals,5.08,0.139,0.473,3.1,0.0,0.787,87.64,41.84,1.74,2.5,376,0.31,0.31,0.63
+"Cereals ready-to-eat, QUAKER, MOTHER'S GROOVY GRAHAMS",Breakfast Cereals,5.44,0.138,0.823,3.0,0.0,0.755,86.38,44.82,1.63,2.5,372,0.28,0.32,0.69
+"Cereals ready-to-eat, QUAKER, MOTHER'S HONEY ROUNDUP",Breakfast Cereals,5.44,0.023,0.587,3.1,0.0,0.237,87.77,35.68,2.0,2.5,382,0.38,0.56,0.82
+"Cereals ready-to-eat, QUAKER, MOTHER'S PEANUT BUTTER BUMPERS Cereal",Breakfast Cereals,8.28,0.1,0.774,2.9,0.0,0.648,78.27,29.51,7.34,2.5,403,1.44,3.08,2.23
+"Cereals ready-to-eat, QUAKER, MOTHER'S TOASTED OAT BRAN CEREAL, Brown Sugar Flavor",Breakfast Cereals,11.9,0.066,0.632,8.9,0.0,0.49,74.92,15.5,5.17,4.0,373,0.89,1.63,1.82
+"Cereals ready-to-eat, QUAKER, Oatmeal Cereal, Brown Sugar Bliss",Breakfast Cereals,8.78,0.298,0.509,7.4,0.0032,0.327,79.69,0.0,5.56,2.5,384,1.16,1.69,1.36
+"Cereals ready-to-eat, QUAKER, QUAKER 100% Natural Cereal with oats, honey, and raisins",Breakfast Cereals,9.42,0.108,0.249,6.5,0.0005,0.485,73.88,29.87,11.33,3.54,417,6.97,2.34,1.49
+"Cereals ready-to-eat, QUAKER, QUAKER APPLE ZAPS",Breakfast Cereals,3.68,0.009,0.449,2.3,0.022,0.175,88.74,46.99,3.45,2.5,393,0.87,0.6,0.62
+"Cereals ready-to-eat, QUAKER, QUAKER CINNAMON OATMEAL SQUARES",Breakfast Cereals,10.49,0.195,0.439,8.2,0.011,0.358,79.21,21.19,4.48,2.5,379,0.8,1.47,1.42
+"Cereals ready-to-eat, QUAKER, QUAKER COCOA BLASTS",Breakfast Cereals,3.67,0.007,0.409,2.5,0.02,0.189,88.7,48.29,3.54,2.5,394,0.95,0.64,0.59
+"Cereals ready-to-eat, QUAKER, QUAKER CRUNCHY BRAN",Breakfast Cereals,6.4,0.071,0.868,17.3,0.0,0.239,84.11,20.75,4.07,2.0,333,2.033,0.761,1.204
+"Cereals ready-to-eat, QUAKER, QUAKER FRUITANGY OH!S",Breakfast Cereals,4.87,0.009,0.491,2.6,0.04,0.189,87.21,43.25,3.5,2.5,392,0.92,1.73,0.85
+"Cereals ready-to-eat, QUAKER, QUAKER Honey Graham LIFE Cereal",Breakfast Cereals,9.33,0.366,0.488,6.3,0.0,0.269,78.56,23.12,4.14,4.3,373,0.77,1.4,1.34
+"Cereals ready-to-eat, QUAKER, QUAKER MARSHMALLOW SAFARI",Breakfast Cereals,5.79,0.087,0.64,4.2,0.04,0.139,84.27,47.27,5.02,2.1,396,1.25,2.5,1.25
+"Cereals ready-to-eat, QUAKER, QUAKER OAT CINNAMON LIFE",Breakfast Cereals,8.93,0.35,0.479,6.2,0.0001,0.258,79.27,26.12,4.01,4.3,373,0.75,1.33,1.28
+"Cereals ready-to-eat, QUAKER, QUAKER OAT LIFE, plain",Breakfast Cereals,9.89,0.349,0.549,6.6,0.0,0.285,77.81,19.48,4.39,4.3,373,0.82,1.49,1.42
+"Cereals ready-to-eat, QUAKER, QUAKER OATMEAL SQUARES",Breakfast Cereals,11.04,0.201,0.447,7.1,0.0114,0.366,78.34,16.1,4.32,2.75,378,0.9,1.45,1.76
+"Cereals ready-to-eat, QUAKER, QUAKER Oat Bran Cereal",Breakfast Cereals,12.38,0.191,0.364,9.9,0.0116,0.438,74.89,16.34,5.11,4.0,372,0.91,1.57,2.04
+"Cereals ready-to-eat, QUAKER, QUAKER Puffed Rice",Breakfast Cereals,7.0,0.009,0.005,1.4,0.0,0.116,87.77,0.0,0.9,3.91,383,0.32,0.18,0.34
+"Cereals ready-to-eat, QUAKER, QUAKER Puffed Wheat",Breakfast Cereals,16.26,0.024,0.005,9.4,0.0,0.364,76.39,1.36,2.15,3.69,366,0.41,0.31,1.07
+"Cereals ready-to-eat, QUAKER, QUAKER SWEET PUFFS",Breakfast Cereals,6.76,0.01,0.236,3.4,0.0,0.148,87.99,47.47,1.93,2.22,391,0.36,0.43,0.93
+"Cereals ready-to-eat, QUAKER, QUAKER Toasted Oatmeal Cereal",Breakfast Cereals,9.38,0.357,0.56,5.6,0.0041,0.234,80.39,23.76,4.22,2.5,383,1.27,1.24,1.17
+"Cereals ready-to-eat, QUAKER, QUAKER toasted Oatmeal Cereal, Honey Nut",Breakfast Cereals,9.01,0.337,0.465,5.5,0.0039,0.227,81.24,25.03,4.07,2.5,384,1.25,1.19,1.12
+"Cereals ready-to-eat, QUAKER, SUN COUNTRY Granola with Almonds",Breakfast Cereals,11.77,0.086,0.033,5.2,0.0001,0.388,67.2,20.42,18.02,1.37,467,2.22,5.84,3.18
+"Cereals ready-to-eat, QUAKER, SWEET CRUNCH/QUISP",Breakfast Cereals,4.5,0.009,0.74,2.3,0.0,0.187,85.03,43.36,6.07,2.0,405,4.44,0.69,0.85
+"Cereals ready-to-eat, QUAKER, Shredded Wheat, bagged cereal",Breakfast Cereals,11.09,0.045,0.004,11.6,0.0,0.354,79.93,0.8,1.98,5.46,343,0.4,0.3,1.2
+"Cereals ready-to-eat, QUAKER, Toasted Oats/OATMMM'S",Breakfast Cereals,9.23,0.041,0.953,6.6,0.022,0.288,77.91,7.99,5.1,3.5,380,0.91,1.77,1.46
+"Cereals ready-to-eat, Ralston Corn Biscuits",Breakfast Cereals,5.83,0.378,1.07,2.6,0.0185,0.09,85.79,9.51,1.05,3.59,367,0.193,0.133,0.347
+"Cereals ready-to-eat, Ralston Corn Flakes",Breakfast Cereals,5.9,0.002,0.71,2.7,0.065,0.086,88.01,7.84,0.91,3.31,357,0.227,0.107,0.293
+"Cereals ready-to-eat, Ralston Crispy Hexagons",Breakfast Cereals,5.94,0.008,0.816,1.5,0.0438,0.099,86.78,9.57,0.95,4.07,379,0.263,0.193,0.35
+"Cereals ready-to-eat, Ralston Crispy Rice",Breakfast Cereals,6.69,0.005,0.763,0.7,0.0645,0.11,86.22,7.65,1.26,3.62,364,0.36,0.243,0.293
+"Cereals ready-to-eat, Ralston Enriched Bran flakes",Breakfast Cereals,10.21,0.045,0.813,16.9,0.2397,0.63,79.77,17.17,3.36,2.53,310,0.433,0.443,1.383
+"Cereals ready-to-eat, Ralston TASTEEOS",Breakfast Cereals,11.83,0.357,0.853,10.7,0.0149,0.307,74.22,4.64,5.97,3.68,398,1.023,1.746,1.87
+"Cereals ready-to-eat, UNCLE SAM CEREAL",Breakfast Cereals,15.98,0.095,0.206,20.3,0.0615,0.446,65.78,1.56,11.6,4.43,431,1.32,1.98,8.35
+"Cereals ready-to-eat, USDA Commodity Corn and Rice (includes all commodity brands)",Breakfast Cereals,6.06,0.01,0.795,1.4,0.0385,0.105,86.85,10.35,1.08,3.78,378,0.26,0.204,0.354
+"Cereals ready-to-eat, USDA Commodity Rice Crisps (includes all commodity brands)",Breakfast Cereals,6.45,0.005,0.85,0.7,0.046,0.108,86.04,8.35,1.27,3.85,381,0.355,0.253,0.325
+"Cereals ready-to-eat, WAFFELOS",Breakfast Cereals,5.6,0.028,0.416,0.0,0.053,0.088,86.3,0.0,4.2,2.5,405,0.0,0.0,0.0
+"Cereals ready-to-eat, WEETABIX WHOLE WHEAT CEREAL",Breakfast Cereals,11.5,0.1,0.387,11.4,0.0,0.545,77.4,2.0,2.8,5.0,373,0.48,0.35,1.17
+"Cereals ready-to-eat, bran flakes, single brand",Breakfast Cereals,9.4,0.056,0.732,17.6,0.0,0.616,80.4,18.9,2.2,3.7,320,0.4,0.295,1.025
+"Cereals ready-to-eat, chocolate-flavored frosted puffed corn",Breakfast Cereals,3.34,0.07,0.67,3.8,0.0529,0.176,87.2,47.0,3.5,3.42,405,0.961,2.079,0.231
+"Cereals ready-to-eat, corn flakes, low sodium",Breakfast Cereals,7.7,0.043,0.01,1.1,0.0,0.073,88.8,6.11,0.3,3.0,399,0.041,0.075,0.129
+"Cereals ready-to-eat, frosted oat cereal with marshmallows",Breakfast Cereals,7.1,0.071,0.5,4.3,0.0529,0.207,84.1,43.5,3.5,2.8,388,0.62,1.1,1.28
+"Cereals ready-to-eat, granola, homemade",Breakfast Cereals,14.85,0.078,0.025,9.0,0.0012,0.54,53.25,20.0,24.06,5.4,489,4.058,9.527,9.218
+"Cereals ready-to-eat, oat, corn and wheat squares, presweetened, maple flavored",Breakfast Cereals,6.0,0.02,0.432,1.8,0.0,0.112,79.9,35.45,9.8,2.5,430,1.4,4.303,4.082
+"Cereals ready-to-eat, rice, puffed, fortified",Breakfast Cereals,6.3,0.006,0.003,1.7,0.0,0.113,89.8,0.0,0.5,3.0,402,0.13,0.0,0.0
+"Cereals ready-to-eat, rolled oats, whole wheat, rice, presweetened, maple flavored, with pecans",Breakfast Cereals,8.3,0.045,0.279,6.0,0.0,0.298,76.9,24.5,10.5,2.6,422,3.5,4.0,2.2
+"Cereals ready-to-eat, wheat and bran, presweetened with nuts and fruits",Breakfast Cereals,7.1,0.043,0.509,9.7,0.0,0.443,76.2,29.8,5.6,8.5,385,0.8,1.951,2.293
+"Cereals ready-to-eat, wheat and malt barley flakes",Breakfast Cereals,10.0,0.039,0.482,8.8,0.0,0.34,81.5,17.6,2.9,3.2,365,0.6,0.816,1.05
+"Cereals ready-to-eat, wheat germ, toasted, plain",Breakfast Cereals,29.1,0.045,0.004,15.1,0.006,0.947,49.6,7.8,10.7,5.6,382,1.83,1.5,6.62
+"Cereals ready-to-eat, wheat, puffed, fortified",Breakfast Cereals,14.7,0.028,0.004,4.4,0.0,0.348,79.6,0.0,1.2,3.0,364,0.2,0.0,0.0
+"Cereals ready-to-eat, wheat, shredded, plain, sugar and salt free",Breakfast Cereals,11.37,0.05,0.006,12.0,0.0101,0.376,78.76,0.94,2.21,6.1,337,0.45,0.35,1.26
+"Cereals ready-to-eat, whole wheat, rolled oats, presweetened, with pecans",Breakfast Cereals,9.3,0.028,0.403,7.0,0.0002,0.321,71.4,15.3,11.8,5.8,408,1.4,6.262,3.797
+"Cereals, CREAM OF RICE, cooked with water, with salt",Breakfast Cereals,0.9,0.003,0.173,0.1,0.0,0.02,11.5,0.02,0.1,87.5,52,0.02,0.031,0.027
+"Cereals, CREAM OF RICE, cooked with water, without salt",Breakfast Cereals,0.9,0.003,0.001,0.1,0.0,0.02,11.4,0.02,0.1,87.5,52,0.027,0.031,0.027
+"Cereals, CREAM OF RICE, dry",Breakfast Cereals,6.3,0.024,0.006,0.7,0.0,0.143,82.4,0.12,0.5,10.5,370,0.136,0.156,0.134
+"Cereals, CREAM OF WHEAT, 1 minute cook time, cooked with water, microwaved, without salt",Breakfast Cereals,1.95,0.126,0.004,1.5,0.0,0.023,10.67,2.98,0.37,86.51,55,0.094,0.049,0.194
+"Cereals, CREAM OF WHEAT, 1 minute cook time, cooked with water, stove-top, without salt",Breakfast Cereals,1.65,0.125,0.004,0.4,0.0,0.023,11.16,0.07,0.42,86.4,56,0.106,0.064,0.21
+"Cereals, CREAM OF WHEAT, 1 minute cook time, dry",Breakfast Cereals,11.77,0.801,0.007,4.4,0.0,0.151,72.63,0.51,1.47,11.41,359,0.295,0.183,0.849
+"Cereals, CREAM OF WHEAT, instant, dry",Breakfast Cereals,10.6,0.357,0.015,3.3,0.0,0.115,75.5,0.4,1.4,10.4,366,0.222,0.192,0.774
+"Cereals, CREAM OF WHEAT, instant, prepared with water, with salt, (wheat)",Breakfast Cereals,1.84,0.064,0.151,0.6,0.0,0.02,13.08,0.07,0.24,84.4,62,0.038,0.033,0.134
+"Cereals, CREAM OF WHEAT, instant, prepared with water, without salt",Breakfast Cereals,1.84,0.064,0.004,0.6,0.0,0.02,13.08,0.07,0.24,84.4,62,0.038,0.033,0.134
+"Cereals, CREAM OF WHEAT, mix'n eat, apple, banana and maple flavored, dry",Breakfast Cereals,6.9,0.113,0.68,2.5,0.0,0.155,81.6,0.0,1.1,8.0,373,0.0,0.0,0.0
+"Cereals, CREAM OF WHEAT, mix'n eat, apple, banana and maple flavored, prepared",Breakfast Cereals,1.6,0.027,0.161,0.3,0.0,0.037,19.3,0.0,0.3,78.3,88,0.044,0.0,0.0
+"Cereals, CREAM OF WHEAT, mix'n eat, plain, dry",Breakfast Cereals,9.7,0.071,0.85,2.3,0.0,0.135,75.6,0.0,1.2,10.7,361,0.203,0.166,0.666
+"Cereals, CREAM OF WHEAT, mix'n eat, plain, prepared with water",Breakfast Cereals,1.9,0.014,0.17,0.3,0.0,0.027,15.1,0.0,0.2,82.1,72,0.034,0.028,0.111
+"Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, with salt",Breakfast Cereals,1.46,0.089,0.129,0.5,0.0,0.017,10.66,0.03,0.21,87.14,50,0.033,0.029,0.115
+"Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, without salt",Breakfast Cereals,1.44,0.087,0.006,0.5,0.0,0.016,10.52,0.03,0.21,87.61,50,0.033,0.028,0.114
+"Cereals, CREAM OF WHEAT, regular, 10 minute cooking, dry",Breakfast Cereals,10.5,0.606,0.007,3.8,0.0,0.12,76.5,0.2,1.5,10.9,370,0.238,0.205,0.829
+"Cereals, Cream of Wheat, 2 1/2 minute cook time, cooked with water, microwaved, without salt",Breakfast Cereals,1.88,0.131,0.045,0.7,0.0,0.026,10.1,0.34,0.37,87.11,52,0.099,0.058,0.176
+"Cereals, Cream of Wheat, 2 1/2 minute cook time, cooked with water, stove-top, without salt",Breakfast Cereals,1.44,0.104,0.034,0.7,0.0,0.023,11.74,0.07,0.2,86.2,56,0.051,0.03,0.102
+"Cereals, Cream of Wheat, 2 1/2 minute cook time, dry",Breakfast Cereals,11.61,0.882,0.328,4.4,0.0,0.16,71.79,0.47,1.41,11.56,355,0.253,0.175,0.63
+"Cereals, KASHI GO LEAN Hot Cereal, Hearty Honey & Cinnamon, dry",Breakfast Cereals,22.0,0.07,0.249,19.4,0.0,0.636,63.0,15.0,5.5,5.0,362,1.0,1.5,3.0
+"Cereals, KASHI HEART TO HEART, Instant Oatmeal, Apple Cinnamon, dry",Breakfast Cereals,10.7,0.233,0.251,11.4,0.07,0.721,78.0,28.0,4.9,5.3,374,1.0,1.7,2.2
+"Cereals, KASHI HEART TO HEART, Instant Oatmeal, maple, dry",Breakfast Cereals,10.9,0.233,0.231,11.6,0.07,0.605,77.0,27.0,5.0,5.4,376,1.0,1.8,2.2
+"Cereals, KASHI, KASHI GO LEAN Hot Cereal, Truly Vanilla, dry",Breakfast Cereals,19.0,0.073,0.247,12.8,0.0,0.532,65.0,18.0,5.3,5.0,362,0.7,1.8,2.8
+"Cereals, MALT-O-MEAL, Farina Hot Wheat Cereal, dry",Breakfast Cereals,13.3,0.377,0.01,3.9,0.001,0.14,74.3,0.7,1.28,9.7,362,0.306,0.151,0.759
+"Cereals, MALT-O-MEAL, chocolate, dry",Breakfast Cereals,10.6,0.369,0.01,4.3,0.001,0.315,79.9,24.4,1.31,6.7,374,0.462,0.265,0.521
+"Cereals, MALT-O-MEAL, plain, dry",Breakfast Cereals,11.8,0.508,0.01,4.0,0.001,0.17,75.6,1.1,1.27,9.8,361,0.299,0.168,0.743
+"Cereals, MALTEX, cooked with water, with salt",Breakfast Cereals,2.29,0.009,0.076,0.9,0.0,0.107,15.81,0.13,0.43,81.0,76,0.061,0.046,0.155
+"Cereals, MALTEX, cooked with water, without salt",Breakfast Cereals,2.29,0.009,0.005,0.9,0.0,0.107,15.81,0.13,0.43,81.0,76,0.069,0.05,0.167
+"Cereals, MALTEX, dry",Breakfast Cereals,11.2,0.036,0.017,4.2,0.0,0.521,77.3,0.66,2.1,7.5,352,0.321,0.243,0.813
+"Cereals, MAYPO, cooked with water, with salt",Breakfast Cereals,2.43,0.054,0.108,2.0,0.0118,0.088,13.23,6.26,0.97,82.7,71,0.185,0.255,0.212
+"Cereals, MAYPO, cooked with water, without salt",Breakfast Cereals,2.4,0.052,0.004,2.4,0.012,0.088,13.3,6.26,1.0,82.7,71,0.175,0.305,0.368
+"Cereals, MAYPO, dry",Breakfast Cereals,13.2,0.282,0.019,10.8,0.064,0.478,72.0,34.05,5.3,6.3,385,0.686,1.51,1.26
+"Cereals, Malt-O-Meal, chocolate, prepared with water, without salt",Breakfast Cereals,1.22,0.045,0.003,0.5,0.0001,0.036,9.22,2.81,0.15,89.15,44,0.054,0.031,0.061
+"Cereals, Malt-o-Meal, plain, prepared with water, without salt",Breakfast Cereals,1.36,0.061,0.003,0.5,0.0001,0.02,8.72,0.13,0.15,89.51,42,0.035,0.02,0.086
+"Cereals, NESTUM, prepared with water",Breakfast Cereals,1.41,0.108,0.033,0.4,0.0063,0.025,16.22,2.91,0.23,81.5,73,0.0,0.066,0.138
+"Cereals, Oat Bran, QUAKER, QUAKER/MOTHER'S Oat Bran, prepared with water, salt",Breakfast Cereals,2.03,0.011,0.046,1.7,0.0,0.069,7.49,0.0,0.95,88.98,43,0.17,0.31,0.36
+"Cereals, QUAKER Instant Oatmeal, NUTRITION FOR WOMEN, Vanilla Cinnamon, prepared with boiling water",Breakfast Cereals,3.22,0.24,0.177,1.7,0.0,0.073,19.82,8.1,1.28,74.19,104,0.22,0.449,0.388
+"Cereals, QUAKER, Creamy Wheat, farina, enriched, prepared with water, no salt",Breakfast Cereals,1.53,0.004,0.003,0.4,0.0,0.014,11.26,0.0,0.07,86.99,51,0.01,0.04,0.022
+"Cereals, QUAKER, Creamy Wheat, farina, enriched, prepared with water, salt",Breakfast Cereals,1.53,0.004,0.055,0.4,0.0,0.014,11.24,0.0,0.07,86.87,51,0.01,0.04,0.022
+"Cereals, QUAKER, Instant Grits Product with American Cheese Flavor, Dry",Breakfast Cereals,8.9,0.012,1.518,4.4,0.0,0.135,75.15,2.01,4.67,6.8,364,1.08,2.29,1.12
+"Cereals, QUAKER, Instant Grits Product with Imitation Bacon Bits and Cheddar Flavor, Dry",Breakfast Cereals,10.29,0.024,1.557,4.7,0.0,0.209,72.49,2.27,5.35,6.96,363,1.2,2.53,1.43
+"Cereals, QUAKER, Instant Grits Product with Redeye Gravy and Imitation Ham Bits, Dry",Breakfast Cereals,9.93,0.009,1.764,4.6,0.0,0.173,76.62,0.0,1.75,7.13,346,0.25,0.52,0.73
+"Cereals, QUAKER, Instant Grits Product--Ham 'n' Cheese",Breakfast Cereals,10.83,0.023,1.93,4.2,0.0,0.212,71.98,0.0,4.69,6.82,359,1.06,2.26,1.05
+"Cereals, QUAKER, Instant Oatmeal EXPRESS Cinnamon Roll, Dry",Breakfast Cereals,8.85,0.204,0.456,6.7,0.0002,0.261,76.34,30.99,5.04,6.77,371,0.92,1.73,1.5
+"Cereals, QUAKER, Instant Oatmeal EXPRESS, Baked Apple, dry",Breakfast Cereals,8.07,0.204,0.59,7.3,0.0008,0.303,77.43,34.57,4.62,6.35,367,0.788,1.55,1.37
+"Cereals, QUAKER, Instant Oatmeal EXPRESS, Golden Brown Sugar, dry",Breakfast Cereals,8.5,0.204,0.538,6.2,0.0,0.248,77.0,32.45,4.78,6.6,372,0.827,1.66,1.44
+"Cereals, QUAKER, Instant Oatmeal, Baked Apple, prepared with boiling water",Breakfast Cereals,2.02,0.141,0.144,1.8,0.0002,0.076,19.45,8.78,1.11,76.27,96,0.19,0.384,0.321
+"Cereals, QUAKER, Instant Oatmeal, Banana Bread, dry",Breakfast Cereals,8.85,0.268,0.7,6.4,0.0009,0.284,75.86,30.47,4.75,6.68,368,0.785,1.708,1.41
+"Cereals, QUAKER, Instant Oatmeal, Cinnamon Spice, prepared with boiling water",Breakfast Cereals,2.4,0.069,0.135,1.8,0.0,0.07,21.52,9.42,1.31,73.8,107,0.226,0.467,0.386
+"Cereals, QUAKER, Instant Oatmeal, Cinnamon-Spice, dry",Breakfast Cereals,8.59,0.239,0.482,6.6,0.0001,0.251,76.97,33.7,4.67,6.56,370,0.87,1.67,1.38
+"Cereals, QUAKER, Instant Oatmeal, DINOSAUR EGGS with ""DINOSAUR BONES"", Brown Sugar Cinnamon, dry",Breakfast Cereals,7.67,0.22,0.523,5.6,0.0,0.218,75.85,39.0,7.47,6.04,389,3.501,1.52,1.21
+"Cereals, QUAKER, Instant Oatmeal, DINOSAUR EGGS with DINOSAUR BONES, Brown Sugar Cinnamon, prepared with boiling water",Breakfast Cereals,2.28,0.067,0.156,1.7,0.0,0.065,22.51,11.57,2.22,72.05,119,1.039,0.451,0.359
+"Cereals, QUAKER, Instant Oatmeal, EXPRESS Baked Apple, prepared with boiling water",Breakfast Cereals,2.53,0.065,0.186,2.3,0.0002,0.095,24.24,10.82,1.45,70.61,120,0.247,0.485,0.429
+"Cereals, QUAKER, Instant Oatmeal, EXPRESS Cinnamon Roll, prepared with boiling water",Breakfast Cereals,2.77,0.065,0.144,2.1,0.0,0.082,23.9,9.7,1.58,70.75,121,0.267,0.542,0.47
+"Cereals, QUAKER, Instant Oatmeal, EXPRESS, Golden Brown Sugar, prepared with boiling water",Breakfast Cereals,2.66,0.065,0.17,2.0,0.0,0.078,24.1,10.16,1.5,70.69,121,0.259,0.52,0.451
+"Cereals, QUAKER, Instant Oatmeal, French Vanilla, prepared with boiling water",Breakfast Cereals,2.41,0.07,0.154,1.8,0.0,0.07,20.16,7.88,1.31,75.13,102,0.237,0.471,0.391
+"Cereals, QUAKER, Instant Oatmeal, Honey Nut, prepared with boiling water",Breakfast Cereals,2.47,0.067,0.147,1.7,0.0,0.071,19.32,7.97,2.23,75.02,107,0.306,0.57,1.118
+"Cereals, QUAKER, Instant Oatmeal, NUTRITION FOR WOMEN, Apple Spice, prepared with boiling water",Breakfast Cereals,3.0,0.242,0.192,1.9,0.0002,0.083,21.02,9.66,1.19,73.23,107,0.198,0.4,0.358
+"Cereals, QUAKER, Instant Oatmeal, NUTRITION FOR WOMEN, Golden Brown Sugar, prepared with boiling water",Breakfast Cereals,3.24,0.239,0.199,1.7,0.0,0.088,20.04,7.82,1.32,73.79,105,0.226,0.456,0.389
+"Cereals, QUAKER, Instant Oatmeal, Raisin and Spice, dry",Breakfast Cereals,7.76,0.256,0.485,6.2,0.0007,0.361,76.31,36.31,4.27,8.23,360,0.8,1.49,1.34
+"Cereals, QUAKER, Instant Oatmeal, Raisin and Spice, prepared",Breakfast Cereals,2.07,0.07,0.13,1.6,0.0002,0.096,20.32,9.67,1.14,75.49,100,0.198,0.397,0.357
+"Cereals, QUAKER, Instant Oatmeal, TREASURE HUNT, prepared with boiling water",Breakfast Cereals,2.19,0.065,0.155,1.6,0.0,0.063,21.85,10.27,1.35,73.53,108,0.327,0.446,0.352
+"Cereals, QUAKER, Instant Oatmeal, apples and cinnamon, dry",Breakfast Cereals,8.0,0.314,0.506,7.9,0.0012,0.318,77.92,35.53,4.39,6.3,365,0.734,1.51,1.26
+"Cereals, QUAKER, Instant Oatmeal, apples and cinnamon, prepared with boiling water",Breakfast Cereals,1.82,0.074,0.111,1.8,0.0002,0.073,17.77,8.1,1.0,78.56,87,0.167,0.344,0.287
+"Cereals, QUAKER, Instant Oatmeal, fruit and cream variety, dry",Breakfast Cereals,7.99,0.314,0.503,5.8,0.0004,0.283,74.72,31.2,7.52,6.39,386,1.588,2.384,1.28
+"Cereals, QUAKER, Instant Oatmeal, fruit and cream variety, prepared with boiling water",Breakfast Cereals,1.45,0.059,0.092,1.1,0.0001,0.051,13.56,5.66,1.36,82.93,72,0.288,0.433,0.232
+"Cereals, QUAKER, Instant Oatmeal, low sodium, dry",Breakfast Cereals,13.0,0.393,0.278,9.8,0.0,0.375,67.29,1.09,7.09,9.09,365,1.253,2.57,2.83
+"Cereals, QUAKER, Instant Oatmeal, maple and brown sugar, dry",Breakfast Cereals,8.93,0.256,0.606,6.6,0.0,0.258,75.28,30.43,4.83,6.87,366,0.835,1.74,1.44
+"Cereals, QUAKER, Instant Oatmeal, maple and brown sugar, prepared with boiling water",Breakfast Cereals,2.38,0.07,0.163,1.8,0.0,0.069,20.04,8.1,1.29,75.13,101,0.222,0.463,0.383
+"Cereals, QUAKER, Instant Oatmeal, raisins, dates and walnuts, dry",Breakfast Cereals,8.87,0.288,0.515,6.6,0.0006,0.35,73.69,0.0,5.5,8.12,365,0.94,1.73,2.11
+"Cereals, QUAKER, Mother's Instant Oatmeal (Non-Fortified), Dry",Breakfast Cereals,13.7,0.052,0.003,9.5,0.0,0.384,65.81,1.42,7.1,11.5,359,1.34,2.59,2.14
+"Cereals, QUAKER, Oat Bran, QUAKER/MOTHER'S Oat Bran, dry",Breakfast Cereals,17.03,0.079,0.005,14.3,0.0,0.579,62.94,1.43,7.97,8.9,364,1.43,2.61,3.03
+"Cereals, QUAKER, Oat Bran, QUAKER/MOTHER'S Oat Bran, prepared with water, no salt",Breakfast Cereals,2.03,0.011,0.003,1.7,0.0,0.069,7.49,0.0,0.95,89.07,43,0.17,0.31,0.36
+"Cereals, QUAKER, QUAKER MultiGrain Oatmeal, dry",Breakfast Cereals,11.3,0.034,0.003,12.0,0.0,0.411,73.44,0.6,2.58,11.07,333,0.52,0.57,1.28
+"Cereals, QUAKER, QUAKER MultiGrain Oatmeal, prepared with water, no salt",Breakfast Cereals,2.08,0.008,0.003,2.2,0.0,0.075,13.49,0.0,0.47,83.58,61,0.096,0.105,0.235
+"Cereals, QUAKER, QUAKER MultiGrain Oatmeal, prepared with water, salt",Breakfast Cereals,2.07,0.008,0.07,2.2,0.0,0.075,13.47,0.0,0.47,83.44,61,0.095,0.105,0.235
+"Cereals, QUAKER, Quick Oats, Dry",Breakfast Cereals,13.7,0.047,0.003,9.4,0.0,0.358,68.18,1.42,6.87,9.37,371,1.11,1.98,2.3
+"Cereals, QUAKER, Scotch Barley, regular and quick, dry",Breakfast Cereals,10.74,0.028,0.007,10.4,0.0,0.261,76.38,0.66,2.24,9.65,346,0.47,0.2,1.03
+"Cereals, QUAKER, corn grits, instant, butter flavor, dry",Breakfast Cereals,8.09,0.411,1.31,4.8,0.0,0.147,75.04,0.87,5.51,6.73,366,2.44,0.98,0.51
+"Cereals, QUAKER, corn grits, instant, butter flavor, prepared with water",Breakfast Cereals,1.51,0.079,0.247,0.9,0.0,0.028,14.02,0.16,1.03,82.49,71,0.458,0.184,0.096
+"Cereals, QUAKER, corn grits, instant, cheddar cheese flavor, dry",Breakfast Cereals,8.37,0.046,1.865,4.2,0.0,0.17,73.08,2.13,5.97,7.6,366,1.76,1.57,0.87
+"Cereals, QUAKER, corn grits, instant, cheddar cheese flavor, prepared with water",Breakfast Cereals,1.6,0.011,0.358,0.8,0.0,0.033,14.01,0.41,1.1,82.26,72,0.308,0.284,0.142
+"Cereals, QUAKER, corn grits, instant, country bacon (imitation bacon bits), prepared with water",Breakfast Cereals,1.92,0.004,0.293,1.0,0.0,0.04,14.61,0.07,0.33,82.2,69,0.044,0.077,0.167
+"Cereals, QUAKER, corn grits, instant, plain, dry",Breakfast Cereals,7.31,0.378,1.05,4.2,0.0,0.163,76.02,1.51,2.14,10.35,359,0.362,0.395,0.967
+"Cereals, QUAKER, corn grits, instant, plain, prepared (microwaved or boiling water added), without salt",Breakfast Cereals,1.58,0.064,0.188,1.1,0.0,0.034,15.95,0.1,0.49,81.22,76,0.076,0.081,0.191
+"Cereals, QUAKER, corn grits, instant, with imitation bacon bits, dry",Breakfast Cereals,9.85,0.038,1.219,5.3,0.0,0.252,77.35,0.27,1.65,7.3,349,0.24,0.42,0.64
+"Cereals, QUAKER, farina, Creamy Wheat, enriched, dry",Breakfast Cereals,10.82,0.012,0.002,2.9,0.0,0.098,76.13,0.3,0.95,11.66,349,0.24,0.08,0.48
+"Cereals, QUAKER, farina, enriched cinnamon flavor, dry",Breakfast Cereals,12.11,0.033,0.003,3.7,0.0004,0.104,74.54,0.29,0.79,12.14,346,0.28,0.0,0.0
+"Cereals, QUAKER, hominy grits, white, quick, dry",Breakfast Cereals,8.53,0.004,0.002,4.8,0.0,0.146,79.16,1.0,1.36,10.48,347,0.26,0.2,0.68
+"Cereals, QUAKER, hominy grits, white, regular, dry",Breakfast Cereals,8.53,0.004,0.002,4.8,0.0,0.146,79.16,1.0,1.36,10.48,347,0.26,0.2,0.68
+"Cereals, QUAKER, hominy grits, yellow, quick, dry",Breakfast Cereals,8.26,0.004,0.002,5.6,0.0,0.167,77.76,1.08,1.66,11.74,337,0.45,0.55,0.71
+"Cereals, QUAKER, oatmeal, instant, low sodium, prepared with water",Breakfast Cereals,3.59,0.098,0.072,2.3,0.0,0.094,16.67,0.0,1.79,76.98,93,0.341,0.649,0.714
+"Cereals, QUAKER, oatmeal, instant, raisins, dates and walnuts, prepared with water",Breakfast Cereals,2.83,0.093,0.165,2.1,0.0002,0.112,23.5,0.0,1.75,70.63,116,0.3,0.552,0.673
+"Cereals, RALSTON, cooked with water, with salt",Breakfast Cereals,2.2,0.005,0.188,2.4,0.0,0.061,11.2,0.0,0.3,86.1,53,0.056,0.0,0.0
+"Cereals, RALSTON, cooked with water, without salt",Breakfast Cereals,2.2,0.005,0.002,2.4,0.0,0.061,11.2,0.0,0.3,86.1,53,0.052,0.04,0.146
+"Cereals, RALSTON, dry",Breakfast Cereals,14.1,0.035,0.011,13.4,0.0,0.392,72.1,0.0,2.1,9.9,341,0.0,0.0,0.0
+"Cereals, ROMAN MEAL WITH OATS, cooked with water, with salt",Breakfast Cereals,3.0,0.011,0.225,3.4,0.0,0.107,14.2,0.0,0.8,81.5,71,0.072,0.0,0.0
+"Cereals, ROMAN MEAL WITH OATS, cooked with water, without salt",Breakfast Cereals,3.0,0.011,0.004,2.9,0.0,0.107,14.2,0.0,0.8,81.5,71,0.072,0.0,0.0
+"Cereals, ROMAN MEAL, plain, cooked with water, with salt",Breakfast Cereals,2.7,0.012,0.082,3.4,0.0,0.125,13.7,0.0,0.4,82.7,61,0.053,0.0,0.0
+"Cereals, ROMAN MEAL, plain, cooked with water, without salt",Breakfast Cereals,2.7,0.012,0.001,3.4,0.0,0.125,13.7,0.0,0.4,82.7,61,0.053,0.0,0.0
+"Cereals, ROMAN MEAL, plain, dry",Breakfast Cereals,14.4,0.065,0.006,17.9,0.0,0.66,72.0,0.0,2.2,9.1,322,0.326,0.288,1.005
+"Cereals, WHEATENA, cooked with water",Breakfast Cereals,2.0,0.004,0.002,2.7,0.0,0.077,11.8,0.0,0.5,85.4,56,0.075,0.071,0.252
+"Cereals, WHEATENA, cooked with water, with salt",Breakfast Cereals,2.03,0.006,0.238,2.0,0.0,0.077,11.74,0.25,0.45,85.4,59,0.091,0.067,0.24
+"Cereals, WHEATENA, dry",Breakfast Cereals,13.1,0.028,0.013,12.8,0.0,0.492,75.6,1.6,2.9,6.5,357,0.43,0.41,1.46
+"Cereals, corn grits, white, regular and quick, enriched, cooked with water, with salt",Breakfast Cereals,1.71,0.001,0.223,0.8,0.0,0.027,14.76,0.12,0.46,82.93,71,0.066,0.064,0.165
+"Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt",Breakfast Cereals,1.71,0.001,0.002,0.8,0.0,0.027,14.76,0.12,0.46,82.93,71,0.066,0.064,0.165
+"Cereals, corn grits, white, regular and quick, enriched, dry",Breakfast Cereals,7.65,0.004,0.001,4.6,0.0,0.141,79.09,0.57,1.75,10.92,370,0.34,0.315,0.875
+"Cereals, corn grits, white, regular and quick, unenriched, cooked with water, without salt",Breakfast Cereals,1.42,0.003,0.002,0.3,0.0,0.021,12.87,0.1,0.19,85.35,59,0.025,0.048,0.083
+"Cereals, corn grits, white, regular and quick, unenriched, dry",Breakfast Cereals,8.8,0.002,0.001,1.6,0.0,0.137,79.6,0.64,1.2,10.0,371,0.155,0.3,0.516
+"Cereals, corn grits, white, regular, quick, unenriched, cooked with water, with salt",Breakfast Cereals,1.4,0.0,0.223,0.2,0.0,0.022,13.0,0.0,0.2,85.3,60,0.03,0.05,0.08
+"Cereals, corn grits, yellow, regular and quick, enriched, cooked with water, without salt",Breakfast Cereals,1.23,0.001,0.002,0.7,0.0,0.022,13.86,0.09,0.39,84.36,65,0.06,0.062,0.13
+"Cereals, corn grits, yellow, regular and quick, enriched, dry",Breakfast Cereals,6.72,0.004,0.002,3.9,0.0,0.118,79.91,0.55,1.49,11.37,368,0.29,0.31,0.72
+"Cereals, corn grits, yellow, regular and quick, unenriched, cooked with water, without salt",Breakfast Cereals,1.42,0.003,0.002,0.3,0.0,0.021,12.87,0.1,0.19,85.35,59,0.025,0.048,0.083
+"Cereals, corn grits, yellow, regular and quick, unenriched, dry",Breakfast Cereals,8.8,0.002,0.001,1.6,0.0,0.137,79.6,0.64,1.2,10.0,371,0.155,0.3,0.516
+"Cereals, corn grits, yellow, regular, quick, enriched, cooked with water, with salt",Breakfast Cereals,1.23,0.001,0.223,0.7,0.0,0.022,13.86,0.09,0.39,84.36,65,0.06,0.062,0.13
+"Cereals, corn grits, yellow, regular, quick, unenriched, cooked with water, with salt",Breakfast Cereals,1.42,0.003,0.223,0.3,0.0,0.021,12.87,0.1,0.19,85.35,59,0.025,0.048,0.083
+"Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), cooked with water, without salt",Breakfast Cereals,1.82,0.097,0.018,0.8,0.0,0.023,10.92,0.76,0.34,86.55,55,0.066,0.038,0.126
+"Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), dry",Breakfast Cereals,11.6,0.711,0.124,4.2,0.0,0.153,73.19,0.56,1.41,11.08,360,0.232,0.15,0.627
+"Cereals, farina, enriched, cooked with water, with salt",Breakfast Cereals,1.82,0.097,0.126,0.8,0.0,0.023,10.92,0.76,0.34,86.55,53,0.066,0.038,0.126
+"Cereals, farina, enriched, cooked with water, without salt",Breakfast Cereals,1.82,0.097,0.018,0.8,0.0,0.023,10.92,0.76,0.34,86.55,53,0.066,0.038,0.126
+"Cereals, farina, unenriched, dry",Breakfast Cereals,10.6,0.014,0.003,1.9,0.0,0.094,78.0,0.0,0.5,10.5,369,0.08,0.06,0.22
+"Cereals, oats, instant, fortified, plain, dry",Breakfast Cereals,12.72,0.352,0.278,10.0,0.0,0.359,67.55,1.51,6.25,10.37,375,1.537,2.129,2.426
+"Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)",Breakfast Cereals,2.37,0.08,0.049,1.7,0.0,0.061,11.67,0.46,1.36,84.03,68,0.267,0.37,0.422
+"Cereals, oats, instant, fortified, with cinnamon and spice, dry",Breakfast Cereals,8.59,0.239,0.482,6.6,0.0001,0.251,76.97,33.7,4.67,6.56,370,0.808,1.67,1.38
+"Cereals, oats, instant, fortified, with cinnamon and spice, prepared with water",Breakfast Cereals,2.4,0.069,0.135,1.8,0.0,0.07,21.52,9.42,1.31,73.8,107,0.226,0.467,0.386
+"Cereals, oats, instant, fortified, with raisins and spice, dry",Breakfast Cereals,7.76,0.256,0.485,6.2,0.0007,0.361,76.31,36.31,4.27,8.23,360,0.8,1.49,1.34
+"Cereals, oats, instant, fortified, with raisins and spice, prepared with water",Breakfast Cereals,2.07,0.07,0.151,1.6,0.0002,0.096,20.32,9.67,1.14,75.49,100,0.198,0.397,0.357
+"Cereals, oats, regular and quick and instant, not fortified, dry",Breakfast Cereals,13.15,0.052,0.006,10.1,0.0,0.362,67.7,0.99,6.52,10.84,379,1.11,1.98,2.3
+"Cereals, oats, regular and quick and instant, unenriched, cooked with water (includes boiling and microwaving), with salt",Breakfast Cereals,2.54,0.009,0.071,1.7,0.0,0.07,12.0,0.27,1.52,83.61,71,0.31,0.435,0.559
+"Cereals, oats, regular and quick and instant, unenriched, cooked with water (includes boiling and microwaving), without salt",Breakfast Cereals,2.54,0.009,0.004,1.7,0.0,0.07,12.0,0.27,1.52,83.61,71,0.31,0.435,0.559
+"Cereals, ready-to-eat, ALPEN",Breakfast Cereals,11.2,0.147,0.213,9.1,0.0087,0.568,75.7,20.0,3.3,7.4,352,0.496,1.327,0.925
+"Cereals, ready-to-eat, KELLOGG, KELLOGG'S CINNABON cereal",Breakfast Cereals,5.7,0.026,0.385,3.9,0.065,0.129,83.3,41.6,7.0,2.5,410,1.0,3.0,1.4
+"Cereals, whole wheat hot natural cereal, cooked with water, with salt",Breakfast Cereals,2.0,0.007,0.233,1.6,0.0,0.071,13.7,0.08,0.4,83.6,62,0.06,0.057,0.202
+"Cereals, whole wheat hot natural cereal, cooked with water, without salt",Breakfast Cereals,2.0,0.007,0.0,1.6,0.0,0.071,13.7,0.08,0.4,83.6,62,0.06,0.057,0.202
+"Cereals, whole wheat hot natural cereal, dry",Breakfast Cereals,11.2,0.04,0.002,9.5,0.0,0.389,75.2,0.42,2.0,9.9,342,0.3,0.283,1.008
+"Incaparina, dry mix (corn and soy flours), unprepared",Breakfast Cereals,21.75,0.6,0.004,9.9,0.0,1.03,60.53,0.0,5.58,7.47,379,0.0,0.0,0.0
+KASHI GOLEAN Crisp Toasted Berry Crumble,Breakfast Cereals,17.8,0.137,0.244,14.9,0.0,0.321,68.4,20.9,8.0,4.0,368,1.0,3.6,2.4
+Milk and cereal bar,Breakfast Cereals,6.47,0.41,0.319,0.4,0.0154,0.254,72.05,45.97,10.98,8.69,413,9.114,1.186,0.239
+"Millet, puffed",Breakfast Cereals,13.0,0.008,0.005,2.7,0.0,0.04,80.0,0.55,3.4,2.5,354,0.67,0.717,1.98
+Rice and Wheat cereal bar,Breakfast Cereals,9.09,0.031,0.5,1.8,0.0,0.143,72.73,31.8,9.09,7.5,409,0.0,6.567,2.049

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+        <script src="render.js"></script>       
+    </head>
+    <body>
+
+
+        <script>
+
+            (async function func(){
+                
+                const res = await fetch('./params.json');                
+                const params = await res.json();
+                
+                const width = params.dims.width - params.margin.left - params.margin.right;
+                const height = params.dims.height - params.margin.top - params.margin.bottom;
+
+                var svg = d3.select("body")
+                    .append("svg")
+                        .attr("width", width + params.margin.left + params.margin.right)
+                        .attr("height", height + params.margin.top + params.margin.bottom)
+                svgG = svg.append("g")
+                    .attr("transform", "translate(" + params.margin.left + "," + params.margin.top + ")");
+
+                let data = await d3.csv(params.path.data);
+                //data = data.filter(d => d['group'] == 'Poultry Products');
+
+                renderData(svgG, data, params);
+                saveSvg(svg.node(), params.path.outputVis);
+                // svgG.node().setAttribute("xmlns", "http://www.w3.org/2000/svg");
+                // const  svgData = svgG.node().outerHTML;
+                // const preface = '<?xml version="1.0" standalone="no"?>\r\n';
+                // const svgBlob = new Blob([preface, svgData], {type:"image/svg+xml;charset=utf-8"});
+                // const svgUrl = URL.createObjectURL(svgBlob);
+                // const downloadLink = document.createElement("a");
+                // downloadLink.href = svgUrl;
+                // downloadLink.id = "download"                
+                // document.body.appendChild(downloadLink);                
+
+            })();
+
+        </script>
+        
+    </body>
+</html>

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>        
+    </head>
+    <body>
+
+        <select id = "options" onchange = "change()" >  
+            <option></option>          
+        </select>  
+
+        <div id="vizAll">
+        </div>
+
+        <div id="vizClasses">            
+        </div>
+
+        <script>
+
+            const pathData = "data/nutrients.csv";
+            const colClass = 'group';
+            // set the dimensions and margins of the graph
+            const margin = {top: 30, right: 10, bottom: 10, left: 0},
+                width = 800 - margin.left - margin.right,
+                height = 400 - margin.top - margin.bottom                
+                ;
+
+            function change() {
+                var list = document.getElementById("options");
+                val = list.options[list.selectedIndex].text;
+                load(val);
+            }
+
+            function fillOpotions(vals) {
+                const select = document.getElementById("options");
+                for (const val of vals) {
+                    var opt = document.createElement('option');
+                    opt.value = val;
+                    opt.innerHTML = val;
+                    select.appendChild(opt);
+                }
+            }
+
+            function renderData(svg, data){
+                let classes = Array.from(new Set(data.map(x=>x[colClass])));
+                // Extract the list of dimensions we want to keep in the plot. Here I keep all except the column called Species
+                //dimensions = Object.keys(data[0]).filter(function(d) { return d != "Species" })
+                let dimensions = Object.keys(data[0]).slice(2);
+                
+                // console.log(dimensions);
+                // console.log(classes);        
+                var colorScale = d3.scalePoint().domain(classes)
+                var color = classes.length > 10 ? d => d3.interpolateSpectral(colorScale(d[colClass])) : d => d3.scaleOrdinal().domain(classes).range(d3.schemeTableau10)(d);
+
+                console.log(classes[0], color(classes[0]))
+                // For each dimension, I build a linear scale. I store all in a y object
+                var y = {}        
+                for (const name of dimensions) {            
+                    y[name] = d3.scaleLinear()                
+                        .domain( d3.extent(data, function(d) { return parseFloat(d[name]); }) )
+                        .range([height, 0])
+                }
+
+                // Build the X scale -> it find the best position for each Y axis
+                x = d3.scalePoint()
+                    .range([0, width])
+                    .padding(1)
+                    .domain(dimensions);
+
+                // The path function take a row of the csv as input, and return x and y coordinates of the line to draw for this raw.
+                function path(d) {
+                    return d3.line()(dimensions.map(function(p) { return [x(p), y[p](d[p])]; }));
+                }
+
+                // Draw the lines
+                svg
+                    .selectAll("myPath")
+                    .data(data)
+                    .enter()
+                        .append("path")
+                            .attr("d",  path)
+                            .style("fill", "none")
+                            .style("stroke", d => color(d))
+                            .style("stroke-width", 2)
+                            .style("opacity", 0.1)
+
+                // Draw the axis:
+                svg.selectAll("myAxis")
+                    // For each dimension of the dataset I add a 'g' element:
+                    .data(dimensions).enter()
+                    .append("g")
+                    // I translate this element to its right position on the x axis
+                    .attr("transform", function(d) { return "translate(" + x(d) + ")"; })
+                    // And I build the axis with the call function
+                    .each(function(d) { d3.select(this).call(d3.axisLeft().scale(y[d])); })
+                    // Add axis title
+                    .append("text")
+                    .style("text-anchor", "middle")
+                    .attr("y", -9)
+                    .text(function(d) { return d; })
+                    .style("fill", "black")
+
+                //})
+
+            }
+
+            async function load(filterClass = ""){
+                
+
+                d3.select("#vizAll").selectAll("*").remove();
+                // append the svg object to the body of the page
+                var svg = d3.select("#vizAll")
+                    .append("svg")
+                    .attr("width", width + margin.left + margin.right)
+                    .attr("height", height + margin.top + margin.bottom)
+                    .append("g")
+                    .attr("transform",
+                            "translate(" + margin.left + "," + margin.top + ")");
+
+                // Parse the Data
+                
+                let data = await d3.csv(pathData);//, function(data) {
+                
+                if (filterClass) {
+                    data = data.filter(d => d[colClass] == filterClass);
+                    classes = [filterClass];
+                } else {
+                    fillOpotions(Array.from(new Set(data.map(x=>x[colClass]))));
+                }
+
+                renderData(svg, data);
+
+                
+            };
+            load();
+
+            (async function loadAllClasses(){
+                let data = await d3.csv(pathData);
+                const classes = Array.from(new Set(data.map(x=>x[colClass])));
+                for (const cls of classes) {
+                    const div = d3.select("#vizClasses")
+                        .append("span")
+                        .attr("class", "cls");
+
+                    div.append("text").text(cls);
+                    const svg = div.append("svg")
+                        .attr("width", width + margin.left + margin.right)
+                        .attr("height", height + margin.top + margin.bottom)
+                        .append("g")
+                        .attr("transform",
+                                "translate(" + margin.left + "," + margin.top + ")");
+                        dataCls = data.filter(d => d[colClass] == cls);
+                        renderData(svg, dataCls);
+
+                }
+            })();
+            
+
+
+        </script>
+        
+    </body>
+</html>
