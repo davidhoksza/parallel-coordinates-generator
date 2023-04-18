@@ -1,12 +1,19 @@
 {
+    "dataSource": {
+        "path": "data/nutrients.csv",
+        "name": "nutrients",
+        "categoryColumn": "group",
+        "filterOutColumns": ["name"],
+        "maxObjectsPerCategory": 100
+    },
     "path": {
-        "data": "data/breakfast_cereals.csv",
         "outputVis": "test.svg"
     },    
     "axis": 1,
     "dims": {
         "width": 800,
-        "height": 400
+        "axisWidth": 50,
+        "height": 600
     },
     "margin": {
         "top": 30, 
@@ -15,7 +22,7 @@
         "left": 0
     },
     "style": {
-        "color": [0, 0, 255],
+        "color": [0, 0, 255],   
         "opacity": 0.1, 
         "strokeWidth": 2
     }
