@@ -22,10 +22,16 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), opti
 # driver.get("http://localhost:8080/single-vis.html")
 
 #driver.get("http://localhost:8080/class-vis-generator.html")
-driver.get("http://localhost:8080/class-vis-generator.html?path=data/nutrients.csv&name=nutrients&categoryColumn=group&filterOutColumns=name")
+#driver.get("http://localhost:8080/class-vis-generator.html?path=data/nutrients.csv&name=nutrients&categoryColumn=group&filterOutColumns=name")
 # driver.get("http://localhost:8080/class-vis-generator.html?path=data/breastCancer.csv&name=breastCancer&categoryColumn=diagnosis&filterOutColumns=")
 # driver.get("http://localhost:8080/class-vis-generator.html?path=data/recipes.csv&name=recipes&categoryColumn=category&filterOutColumns=")
-#driver.get("http://localhost:8080/class-vis-generator.html?path=data/spotify.csv&name=spotify&categoryColumn=genre&filterOutColumns=track_id")
+# driver.get("http://localhost:8080/class-vis-generator.html?path=data/spotify.csv&name=spotify&categoryColumn=genre&filterOutColumns=track_id")
+
+# driver.get("http://localhost:8080/class-vis-generator.html?path=data/case-study/nutrients.csv&name=nutrients&categoryColumn=_target&filterOutColumns=name")
+# driver.get("http://localhost:8080/class-vis-generator.html?path=data/case-study/breastCancer.csv&name=breastCancer&categoryColumn=_target&filterOutColumns=")
+# driver.get("http://localhost:8080/class-vis-generator.html?path=data/case-study/recipes.csv&name=recipes&categoryColumn=_target&filterOutColumns=")
+driver.get("http://localhost:8080/class-vis-generator.html?path=data/case-study/spotify.csv&name=spotify&categoryColumn=_target&filterOutColumns=track_id")
+
 
 
 # el = WebDriverWait(driver, 10).until(lambda d: d.find_element(By.ID,"download"))
