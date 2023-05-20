@@ -38,8 +38,8 @@
                 
                 const height = params.dims.height - params.margin.top - params.margin.bottom;
 
-                let data = await d3.csv(params.dataSource.path);                
-                data = filterDataByCols(data, params.dataSource.filterOutColumns);                
+                const dataOrig = await d3.csv(params.dataSource.path);                
+                let data = filterDataByCols(dataOrig, params.dataSource.filterOutColumns);                
                 window.data = data;
 
                 const width = getWidth(params); 
@@ -55,40 +55,48 @@
                 const paramsOpacity = JSON.parse(JSON.stringify(params));
                 paramsOpacity.style.opacity = 1;
 
-                for (const cls of classes) {
-                    console.log(cls)
-                    const dataCls = data.filter(d => d[params.dataSource.categoryColumn] == cls);                    
-                    console.log('dataCls',dataCls)
+                let idCol = Object.keys(dataOrig[0])[0]                
+                
+                for (const cls of classes) {                    
+                    const dataCls = data.filter(d => d[params.dataSource.categoryColumn] == cls);
+                    const dataOrigCls = dataOrig.filter(d => d[params.dataSource.categoryColumn] == cls);                    
                     const extentsCls = getExtents(dataCls);
                     //visualize category
                     renderData(svgG, dataCls, params, extentsCls);
                     //return
                     saveSvg(svg.node(), `out--${params.dataSource.name}--classFull--${sanitaizeName(cls)}`);
                     emptySelection(svgG);
-
-                    for (let i = 0; i < 50; i++) {                        
-                        const ixRand = Math.floor(Math.random() * dataCls.length);
-                        console.log('ixRand', ixRand, dataCls.length)
-                        renderData(svgG, [dataCls[ixRand]], paramsOpacity, extentsCls);
-                        saveSvg(svg.node(), `out--${params.dataSource.name}--${sanitaizeName(cls)}--random_${i}_${ixRand}`);
+                    
+                    for (let i = 0; i < dataCls.length; i++) {                        
+                        renderData(svgG, [dataCls[i]], paramsOpacity, extentsCls);
+                        saveSvg(svg.node(), `out--${params.dataSource.name}--${sanitaizeName(cls)}--${dataOrigCls[i][idCol]}.svg`);
                         emptySelection(svgG);
                         await new Promise(res => setTimeout(res, 100));
                     }
 
-                    const selectedRecords = [];
-                    const remainingRecords = dataCls.slice();
+                    // for (let i = 0; i < 50; i++) {                        
+                    //     const ixRand = Math.floor(Math.random() * dataCls.length);
+                    //     console.log('ixRand', ixRand, dataCls.length)
+                    //     renderData(svgG, [dataCls[ixRand]], paramsOpacity, extentsCls);
+                    //     saveSvg(svg.node(), `out--${params.dataSource.name}--${sanitaizeName(cls)}--random_${i}_${ixRand}`);
+                    //     emptySelection(svgG);
+                    //     await new Promise(res => setTimeout(res, 100));
+                    // }
 
-                    const size = Math.min(params.dataSource.maxObjectsPerCategory, dataCls.length);
-                    for (let i = 0; i < size; i++) {
-                        const randomIndex = Math.floor(Math.random() * remainingRecords.length);
-                        selectedRecords.push(remainingRecords[randomIndex]);
-                        remainingRecords.splice(randomIndex, 1);
-                        await new Promise(res => setTimeout(res, 100));
-                    }
-                    renderData(svgG, selectedRecords, params, extentsCls);
-                    //saveSvg(svg.node(), `out--${params.path.dataSourceName}--classSubset_${size}--${sanitaizeName(cls)}`);                    
-                    saveSvg(svg.node(), `out--${params.dataSource.name}--classSubset--${sanitaizeName(cls)}`);
-                    emptySelection(svgG); 
+                    // const selectedRecords = [];
+                    // const remainingRecords = dataCls.slice();
+
+                    // const size = Math.min(params.dataSource.maxObjectsPerCategory, dataCls.length);
+                    // for (let i = 0; i < size; i++) {
+                    //     const randomIndex = Math.floor(Math.random() * remainingRecords.length);
+                    //     selectedRecords.push(remainingRecords[randomIndex]);
+                    //     remainingRecords.splice(randomIndex, 1);
+                    //     await new Promise(res => setTimeout(res, 100));
+                    // }
+                    // renderData(svgG, selectedRecords, params, extentsCls);
+                    // //saveSvg(svg.node(), `out--${params.path.dataSourceName}--classSubset_${size}--${sanitaizeName(cls)}`);                    
+                    // saveSvg(svg.node(), `out--${params.dataSource.name}--classSubset--${sanitaizeName(cls)}`);
+                    // emptySelection(svgG); 
                     
                     
                     await new Promise(res => setTimeout(res, 100));

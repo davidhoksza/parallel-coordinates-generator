@@ -9,7 +9,7 @@ function getExtents(data){
 
 function filterDataByCols(data, colsRemove) {
     if (!colsRemove.length) return data;
-    return data.map(d => {                    
+    return JSON.parse(JSON.stringify(data)).map(d => {                    
         for (const col of colsRemove){
             delete d[col]
         }
